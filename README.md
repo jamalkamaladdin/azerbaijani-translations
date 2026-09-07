@@ -8,7 +8,7 @@ Every row links to the merged pull request, so each line can be checked at the s
 | [usememos/memos](https://github.com/usememos/memos) | 62,836 | feat(i18n): add Azerbaijani language support | [#6278](https://github.com/usememos/memos/pull/6278) | 2026-09-06 |
 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 34,089 | Add Azerbaijani locale | [#5837](https://github.com/NginxProxyManager/nginx-proxy-manager/pull/5837) | 2026-09-07 |
 | [lissy93/dashy](https://github.com/lissy93/dashy) | 26,406 | 🌐 Adds Azerbaijani (az) translation | [#2334](https://github.com/lissy93/dashy/pull/2334) | 2026-09-05 |
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,146 | feat(i18n): add Azerbaijani (az) locale | [#1490](https://github.com/GopeedLab/gopeed/pull/1490) | 2026-09-07 |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,147 | feat(i18n): add Azerbaijani (az) locale | [#1490](https://github.com/GopeedLab/gopeed/pull/1490) | 2026-09-07 |
 | [faker-js/faker](https://github.com/faker-js/faker) | 15,485 | feat(locale): add food data for az | [#4037](https://github.com/faker-js/faker/pull/4037) | 2026-09-06 |
 | [faker-js/faker](https://github.com/faker-js/faker) | 15,485 | feat(locale): add airline data for az | [#4036](https://github.com/faker-js/faker/pull/4036) | 2026-09-06 |
 | [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 15,149 | feat(locales): add Azerbaijani (az) locale | [#5289](https://github.com/apexcharts/apexcharts.js/pull/5289) | 2026-09-06 |
@@ -19,9 +19,10 @@ Every row links to the merged pull request, so each line can be checked at the s
 | [maplibre/maputnik](https://github.com/maplibre/maputnik) | 2,627 | feat(i18n): add Azerbaijani language support and translations | [#2134](https://github.com/maplibre/maputnik/pull/2134) | 2026-09-05 |
 | [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) | 2,536 | feat(i18n): add Azerbaijani (az) locale | [#1544](https://github.com/DirectoryLister/DirectoryLister/pull/1544) | 2026-09-07 |
 | [xdan/jodit](https://github.com/xdan/jodit) | 1,958 | feat(langs): add Azerbaijani translation | [#1471](https://github.com/xdan/jodit/pull/1471) | 2026-09-07 |
+| [spruceUI/spruceOS](https://github.com/spruceUI/spruceOS) | 632 | Add Azerbaijani language pack | [#1651](https://github.com/spruceUI/spruceOS/pull/1651) | 2026-09-07 |
 | [primefaces/primelocale](https://github.com/primefaces/primelocale) | 132 | feat(locale): add Azerbaijani locale | [#268](https://github.com/primefaces/primelocale/pull/268) | 2026-09-05 |
 
-15 merged pull requests into 14 projects carrying 215,680 stars in total, 5,885 lines of Azerbaijani.
+16 merged pull requests into 15 projects carrying 216,313 stars in total, 6,006 lines of Azerbaijani.
 
 ## How the list is built
 

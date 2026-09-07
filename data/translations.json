@@ -41,7 +41,7 @@
     "number": 1490,
     "title": "feat(i18n): add Azerbaijani (az) locale",
     "url": "https://github.com/GopeedLab/gopeed/pull/1490",
-    "stars": 26146,
+    "stars": 26147,
     "description": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
     "merged_at": "2026-09-07",
     "additions": 629,
@@ -166,6 +166,18 @@
     "merged_at": "2026-09-07",
     "additions": 239,
     "files": 3
+  },
+  {
+    "owner": "spruceUI",
+    "repo": "spruceOS",
+    "number": 1651,
+    "title": "Add Azerbaijani language pack",
+    "url": "https://github.com/spruceUI/spruceOS/pull/1651",
+    "stars": 632,
+    "description": "Custom Software for the Miyoo A30, Flip, Mini, Mini+ Mini Flip, TrimUI Brick, Brick Pro, Smart Pro,  Smart Pro S and the Anbernic RG-XX series",
+    "merged_at": "2026-09-07",
+    "additions": 121,
+    "files": 1
   },
   {
     "owner": "primefaces",
