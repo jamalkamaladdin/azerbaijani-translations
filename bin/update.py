@@ -45,7 +45,8 @@ def collect():
     return rows
 
 def render(rows):
-    total_stars = sum(r["stars"] for r in rows)
+    # one repo can carry more than one merged pull request, so stars are counted once
+    total_stars = sum(v["stars"] for v in {(r["owner"], r["repo"]): r for r in rows}.values())
     total_lines = sum(r["additions"] for r in rows)
     head = [
         "# Azerbaijani translations for open source projects",
@@ -62,8 +63,8 @@ def render(rows):
             r["title"], r["number"], r["url"], r["merged_at"]))
     head += [
         "",
-        "%d merged pull requests across projects with %s stars in total, %s lines of Azerbaijani." % (
-            len(rows), f"{total_stars:,}", f"{total_lines:,}"),
+        "%d merged pull requests into %d projects carrying %s stars in total, %s lines of Azerbaijani." % (
+            len(rows), len({(r["owner"], r["repo"]) for r in rows}), f"{total_stars:,}", f"{total_lines:,}"),
         "",
         "## How the list is built",
         "",
