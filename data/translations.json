@@ -9,7 +9,8 @@
     "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
     "merged_at": "2026-09-08",
     "additions": 777,
-    "files": 2
+    "files": 2,
+    "words": 3199
   },
   {
     "owner": "usememos",
@@ -21,7 +22,8 @@
     "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
     "merged_at": "2026-09-06",
     "additions": 1126,
-    "files": 3
+    "files": 3,
+    "words": 3976
   },
   {
     "owner": "NginxProxyManager",
@@ -33,7 +35,8 @@
     "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
     "merged_at": "2026-09-07",
     "additions": 865,
-    "files": 12
+    "files": 12,
+    "words": 1968
   },
   {
     "owner": "lissy93",
@@ -45,7 +48,8 @@
     "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
     "merged_at": "2026-09-05",
     "additions": 594,
-    "files": 3
+    "files": 3,
+    "words": 1748
   },
   {
     "owner": "GopeedLab",
@@ -57,7 +61,8 @@
     "description": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
     "merged_at": "2026-09-07",
     "additions": 629,
-    "files": 1
+    "files": 1,
+    "words": 1464
   },
   {
     "owner": "FreshRSS",
@@ -69,7 +74,8 @@
     "description": "A free, self-hostable news aggregator…",
     "merged_at": "2026-09-08",
     "additions": 1793,
-    "files": 42
+    "files": 42,
+    "words": 4661
   },
   {
     "owner": "faker-js",
@@ -81,7 +87,8 @@
     "description": "Generate massive amounts of fake data in the browser and node.js",
     "merged_at": "2026-09-06",
     "additions": 286,
-    "files": 12
+    "files": 12,
+    "words": 364
   },
   {
     "owner": "faker-js",
@@ -93,7 +100,8 @@
     "description": "Generate massive amounts of fake data in the browser and node.js",
     "merged_at": "2026-09-06",
     "additions": 99,
-    "files": 5
+    "files": 5,
+    "words": 94
   },
   {
     "owner": "apexcharts",
@@ -105,7 +113,8 @@
     "description": "📊 Interactive JavaScript Charts built on SVG",
     "merged_at": "2026-09-06",
     "additions": 56,
-    "files": 1
+    "files": 1,
+    "words": 57
   },
   {
     "owner": "wenzhixin",
@@ -117,7 +126,8 @@
     "description": "An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)",
     "merged_at": "2026-09-07",
     "additions": 192,
-    "files": 2
+    "files": 2,
+    "words": 176
   },
   {
     "owner": "linuxserver",
@@ -129,7 +139,8 @@
     "description": "An Application dashboard and launcher",
     "merged_at": "2026-09-05",
     "additions": 131,
-    "files": 2
+    "files": 2,
+    "words": 319
   },
   {
     "owner": "code-charity",
@@ -137,11 +148,12 @@
     "number": 4323,
     "title": "feat(locale): add Azerbaijani (az) translation",
     "url": "https://github.com/code-charity/youtube/pull/4323",
-    "stars": 4569,
+    "stars": 4570,
     "description": "YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quality|codec|full tab|full screen|no distraction|shorts}",
     "merged_at": "2026-09-08",
     "additions": 1760,
-    "files": 1
+    "files": 1,
+    "words": 2367
   },
   {
     "owner": "freescout-help-desk",
@@ -153,7 +165,8 @@
     "description": "FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox",
     "merged_at": "2026-09-06",
     "additions": 1051,
-    "files": 8
+    "files": 8,
+    "words": 3967
   },
   {
     "owner": "home-sweet-gnome",
@@ -165,7 +178,8 @@
     "description": "An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.",
     "merged_at": "2026-09-07",
     "additions": 1554,
-    "files": 2
+    "files": 2,
+    "words": 1496
   },
   {
     "owner": "alefragnani",
@@ -177,7 +191,8 @@
     "description": "Project Manager Extension for Visual Studio Code",
     "merged_at": "2026-09-05",
     "additions": 253,
-    "files": 8
+    "files": 8,
+    "words": 1605
   },
   {
     "owner": "maplibre",
@@ -189,7 +204,8 @@
     "description": "An open source visual editor for the 'MapLibre Style Specification'",
     "merged_at": "2026-09-05",
     "additions": 207,
-    "files": 4
+    "files": 4,
+    "words": 621
   },
   {
     "owner": "DirectoryLister",
@@ -201,7 +217,8 @@
     "description": "📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.",
     "merged_at": "2026-09-07",
     "additions": 20,
-    "files": 1
+    "files": 1,
+    "words": 39
   },
   {
     "owner": "shd101wyy",
@@ -213,7 +230,8 @@
     "description": "One of the \"BEST\" markdown preview extensions for Visual Studio Code",
     "merged_at": "2026-09-08",
     "additions": 146,
-    "files": 1
+    "files": 1,
+    "words": 1939
   },
   {
     "owner": "xdan",
@@ -225,7 +243,8 @@
     "description": "Jodit - Best WYSIWYG Editor for You",
     "merged_at": "2026-09-07",
     "additions": 239,
-    "files": 3
+    "files": 3,
+    "words": 588
   },
   {
     "owner": "bradymholt",
@@ -237,7 +256,8 @@
     "description": "JavaScript library that translates Cron expressions into human readable descriptions",
     "merged_at": "2026-09-08",
     "additions": 325,
-    "files": 4
+    "files": 4,
+    "words": 364
   },
   {
     "owner": "Kesomannen",
@@ -249,7 +269,8 @@
     "description": "A modern mod manager for Thunderstore",
     "merged_at": "2026-09-08",
     "additions": 546,
-    "files": 2
+    "files": 2,
+    "words": 2108
   },
   {
     "owner": "spruceUI",
@@ -261,7 +282,8 @@
     "description": "Custom Software for the Miyoo A30, Flip, Mini, Mini+ Mini Flip, TrimUI Brick, Brick Pro, Smart Pro,  Smart Pro S and the Anbernic RG-XX series",
     "merged_at": "2026-09-07",
     "additions": 121,
-    "files": 1
+    "files": 1,
+    "words": 312
   },
   {
     "owner": "primefaces",
@@ -273,6 +295,7 @@
     "description": "",
     "merged_at": "2026-09-05",
     "additions": 137,
-    "files": 1
+    "files": 1,
+    "words": 251
   }
 ]
