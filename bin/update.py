@@ -36,11 +36,57 @@ def words_in_line(line):
         value = s
     return len(WORD.findall(NOISE.sub(" ", value)))
 
+PO_MSGSTR = re.compile(r'^msgstr(?:\[\d+\])?\s+"(.*)"\s*$')
+PO_CONT = re.compile(r'^"(.*)"\s*$')
+
+def words_in_po(text):
+    """Count words in the msgstr values of a gettext catalogue."""
+    total, inside = 0, False
+    for line in text.splitlines():
+        line = line.strip()
+        m = PO_MSGSTR.match(line)
+        if m:
+            inside = True
+            total += len(WORD.findall(NOISE.sub(" ", m.group(1))))
+            continue
+        c = PO_CONT.match(line) if inside else None
+        if c:
+            total += len(WORD.findall(NOISE.sub(" ", c.group(1))))
+            continue
+        inside = False
+    return total
+
+def words_in_new_file(entry):
+    """GitHub drops the patch of a large file, so read the file itself instead."""
+    url = entry.get("contents_url") or ""
+    if not url:
+        return 0
+    try:
+        text = gh("api", "-H", "Accept: application/vnd.github.raw", url[len("https://api.github.com/"):])
+    except subprocess.CalledProcessError:
+        return 0
+    if entry.get("filename", "").endswith((".po", ".pot")):
+        return words_in_po(text)
+    return sum(words_in_line("+" + ln) for ln in text.splitlines())
+
 def count_words(owner, repo, number):
-    patches = gh("api", "--paginate", "repos/%s/%s/pulls/%d/files" % (owner, repo, number),
-                 "--jq", ".[] | .patch // empty")
-    return sum(words_in_line(ln) for ln in patches.splitlines()
-               if ln.startswith("+") and not ln.startswith("+++"))
+    out = gh("api", "--paginate", "repos/%s/%s/pulls/%d/files" % (owner, repo, number),
+             "--jq", ".[] | {filename, status, patch, contents_url} | tostring")
+    total = 0
+    for line in out.strip().splitlines():
+        entry = json.loads(line)
+        patch = entry.get("patch")
+        if patch:
+            if entry.get("filename", "").endswith((".po", ".pot")):
+                added = "\n".join(ln[1:] for ln in patch.splitlines()
+                                  if ln.startswith("+") and not ln.startswith("+++"))
+                total += words_in_po(added)
+            else:
+                total += sum(words_in_line(ln) for ln in patch.splitlines()
+                             if ln.startswith("+") and not ln.startswith("+++"))
+        elif entry.get("status") == "added":
+            total += words_in_new_file(entry)
+    return total
 
 def is_translation(title):
     t = title.lower()

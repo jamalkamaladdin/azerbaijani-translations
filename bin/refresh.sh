@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # Refresh the list from GitHub and publish it. Run this after a translation PR is merged.
-# Star counts move every hour, so a run that only shifts numbers is dropped instead of
-# committed. Numbers are still refreshed once the last commit is older than STALE_DAYS.
+# Star counts move every hour, so a run that only shifts stars is dropped instead of
+# committed. A changed word count does count as real content and is committed.
+# Numbers are still refreshed once the last commit is older than STALE_DAYS.
 set -euo pipefail
 STALE_DAYS=7
 B=$(dirname "$(readlink -f "$0")")
@@ -13,7 +14,7 @@ keys() { python3 -c "
 import json,sys
 try: rows = json.load(open(sys.argv[1]))
 except Exception: rows = []
-print('\n'.join(sorted('%s %s' % (r['url'], r.get('merged_at','')) for r in rows)))" "$1"; }
+print('\n'.join(sorted('%s %s %s' % (r['url'], r.get('merged_at',''), r.get('words','')) for r in rows)))" "$1"; }
 
 before=$(keys "$J")
 python3 "$B/update.py"
