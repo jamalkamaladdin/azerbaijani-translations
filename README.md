@@ -4,18 +4,19 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 
 | Project | Stars | Words |
 |---|---:|---:|
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 122,951 | 3,199 |
-| [usememos/memos](https://github.com/usememos/memos) | 62,852 | 3,976 |
-| [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 34,101 | 1,968 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 122,958 | 3,199 |
+| [usememos/memos](https://github.com/usememos/memos) | 62,854 | 3,976 |
+| [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 34,100 | 1,968 |
 | [lissy93/dashy](https://github.com/lissy93/dashy) | 26,410 | 1,748 |
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,189 | 1,464 |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,191 | 1,464 |
 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 15,957 | 4,661 |
 | [faker-js/faker](https://github.com/faker-js/faker) | 15,485 | 458 |
 | [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 15,151 | 57 |
 | [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) | 11,810 | 176 |
-| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,529 | 5,888 |
+| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,531 | 5,888 |
 | [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) | 9,315 | 319 |
 | [WinMerge/winmerge](https://github.com/WinMerge/winmerge) | 9,189 | 0 |
+| [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8,663 | 3,963 |
 | [ellite/Wallos](https://github.com/ellite/Wallos) | 8,464 | 1,927 |
 | [code-charity/youtube](https://github.com/code-charity/youtube) | 4,570 | 2,367 |
 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4,530 | 3,967 |
@@ -30,7 +31,7 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 | [spruceUI/spruceOS](https://github.com/spruceUI/spruceOS) | 632 | 312 |
 | [primefaces/primelocale](https://github.com/primefaces/primelocale) | 132 | 251 |
 
-26 merged pull requests into 25 projects carrying 395,936 stars in total, 41,498 words of Azerbaijani.
+27 merged pull requests into 26 projects carrying 404,611 stars in total, 45,461 words of Azerbaijani.
 
 ## How the list is built
 
