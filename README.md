@@ -5,16 +5,16 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 | Project | Stars | Words |
 |---|---:|---:|
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 123,132 | 3,199 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,322 | 2,753 |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 115,877 | 3,439 |
-| [usememos/memos](https://github.com/usememos/memos) | 62,907 | 3,976 |
-| [umami-software/umami](https://github.com/umami-software/umami) | 38,732 | 1,811 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,330 | 2,753 |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 115,878 | 3,439 |
+| [usememos/memos](https://github.com/usememos/memos) | 62,908 | 3,976 |
+| [umami-software/umami](https://github.com/umami-software/umami) | 38,733 | 1,811 |
 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 34,117 | 1,968 |
 | [lissy93/dashy](https://github.com/lissy93/dashy) | 26,417 | 1,748 |
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,237 | 1,464 |
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 19,012 | 40,894 |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,238 | 1,464 |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 19,027 | 40,894 |
 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 15,987 | 4,661 |
-| [faker-js/faker](https://github.com/faker-js/faker) | 15,489 | 458 |
+| [faker-js/faker](https://github.com/faker-js/faker) | 15,489 | 770 |
 | [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 15,152 | 57 |
 | [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 14,147 | 16,487 |
 | [darktable-org/darktable](https://github.com/darktable-org/darktable) | 13,048 | 38,861 |
@@ -53,7 +53,7 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 | [primefaces/primelocale](https://github.com/primefaces/primelocale) | 132 | 251 |
 | [alefragnani/vscode-pascal-formatter](https://github.com/alefragnani/vscode-pascal-formatter) | 38 | 597 |
 
-49 merged pull requests into 48 projects carrying 763,639 stars in total, 186,879 words of Azerbaijani.
+50 merged pull requests into 48 projects carrying 763,666 stars in total, 187,191 words of Azerbaijani.
 
 ## How the list is built
 
