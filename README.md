@@ -4,28 +4,28 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 
 | Project | Stars | Words |
 |---|---:|---:|
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 123,130 | 3,199 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,313 | 2,753 |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 115,876 | 3,439 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 123,132 | 3,199 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,322 | 2,753 |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 115,877 | 3,439 |
 | [usememos/memos](https://github.com/usememos/memos) | 62,907 | 3,976 |
-| [umami-software/umami](https://github.com/umami-software/umami) | 38,731 | 1,811 |
+| [umami-software/umami](https://github.com/umami-software/umami) | 38,732 | 1,811 |
 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 34,117 | 1,968 |
 | [lissy93/dashy](https://github.com/lissy93/dashy) | 26,417 | 1,748 |
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,236 | 1,464 |
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 19,006 | 40,894 |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,237 | 1,464 |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 19,012 | 40,894 |
 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 15,987 | 4,661 |
 | [faker-js/faker](https://github.com/faker-js/faker) | 15,489 | 458 |
 | [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 15,152 | 57 |
 | [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 14,147 | 16,487 |
-| [darktable-org/darktable](https://github.com/darktable-org/darktable) | 13,047 | 38,861 |
+| [darktable-org/darktable](https://github.com/darktable-org/darktable) | 13,048 | 38,861 |
 | [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) | 11,809 | 176 |
 | [kanboard/kanboard](https://github.com/kanboard/kanboard) | 9,858 | 5,011 |
-| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,594 | 5,888 |
+| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,593 | 5,888 |
 | [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) | 9,316 | 319 |
 | [WinMerge/winmerge](https://github.com/WinMerge/winmerge) | 9,192 | 6,655 |
 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 9,040 | 6,240 |
 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8,683 | 3,963 |
-| [ellite/Wallos](https://github.com/ellite/Wallos) | 8,483 | 1,927 |
+| [ellite/Wallos](https://github.com/ellite/Wallos) | 8,484 | 1,927 |
 | [code-charity/youtube](https://github.com/code-charity/youtube) | 4,574 | 2,367 |
 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4,530 | 3,967 |
 | [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) | 4,437 | 1,477 |
@@ -45,14 +45,15 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 | [Kesomannen/gale](https://github.com/Kesomannen/gale) | 749 | 2,108 |
 | [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) | 712 | 180 |
 | [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) | 654 | 5,250 |
-| [spruceUI/spruceOS](https://github.com/spruceUI/spruceOS) | 632 | 312 |
+| [spruceUI/spruceOS](https://github.com/spruceUI/spruceOS) | 631 | 312 |
 | [omer-faruq/appstore.koplugin](https://github.com/omer-faruq/appstore.koplugin) | 545 | 1,522 |
 | [ScratchEverywhere/ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere) | 539 | 495 |
+| [maplibre/navara](https://github.com/maplibre/navara) | 332 | 637 |
 | [alefragnani/vscode-numbered-bookmarks](https://github.com/alefragnani/vscode-numbered-bookmarks) | 174 | 710 |
 | [primefaces/primelocale](https://github.com/primefaces/primelocale) | 132 | 251 |
 | [alefragnani/vscode-pascal-formatter](https://github.com/alefragnani/vscode-pascal-formatter) | 38 | 597 |
 
-48 merged pull requests into 47 projects carrying 763,287 stars in total, 186,242 words of Azerbaijani.
+49 merged pull requests into 48 projects carrying 763,639 stars in total, 186,879 words of Azerbaijani.
 
 ## How the list is built
 
