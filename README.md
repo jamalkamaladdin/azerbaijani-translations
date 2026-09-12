@@ -4,31 +4,31 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 
 | Project | Stars | Words |
 |---|---:|---:|
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 123,240 | 3,199 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,620 | 2,753 |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 115,977 | 3,439 |
-| [usememos/memos](https://github.com/usememos/memos) | 62,932 | 3,976 |
-| [umami-software/umami](https://github.com/umami-software/umami) | 38,751 | 1,811 |
-| [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 34,123 | 1,968 |
-| [lissy93/dashy](https://github.com/lissy93/dashy) | 26,429 | 1,748 |
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,257 | 1,464 |
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 19,227 | 40,894 |
-| [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 15,997 | 4,661 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 123,273 | 3,199 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 122,829 | 2,753 |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 116,016 | 3,439 |
+| [usememos/memos](https://github.com/usememos/memos) | 62,947 | 3,976 |
+| [umami-software/umami](https://github.com/umami-software/umami) | 38,762 | 1,811 |
+| [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 34,124 | 1,968 |
+| [lissy93/dashy](https://github.com/lissy93/dashy) | 26,435 | 1,748 |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,264 | 1,464 |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 19,264 | 40,894 |
+| [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16,000 | 4,661 |
 | [faker-js/faker](https://github.com/faker-js/faker) | 15,489 | 1,229 |
-| [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 15,154 | 57 |
-| [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 14,169 | 16,487 |
-| [darktable-org/darktable](https://github.com/darktable-org/darktable) | 13,054 | 38,861 |
+| [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 15,155 | 57 |
+| [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 14,174 | 16,487 |
+| [darktable-org/darktable](https://github.com/darktable-org/darktable) | 13,062 | 38,861 |
 | [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) | 11,809 | 176 |
-| [kanboard/kanboard](https://github.com/kanboard/kanboard) | 9,860 | 5,011 |
-| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,646 | 5,888 |
-| [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) | 9,314 | 319 |
-| [WinMerge/winmerge](https://github.com/WinMerge/winmerge) | 9,195 | 6,655 |
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 9,055 | 6,240 |
-| [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8,689 | 3,963 |
+| [kanboard/kanboard](https://github.com/kanboard/kanboard) | 9,861 | 5,011 |
+| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 9,653 | 5,888 |
+| [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) | 9,317 | 319 |
+| [WinMerge/winmerge](https://github.com/WinMerge/winmerge) | 9,196 | 6,655 |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 9,056 | 6,240 |
+| [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8,693 | 3,963 |
 | [ellite/Wallos](https://github.com/ellite/Wallos) | 8,489 | 1,927 |
-| [code-charity/youtube](https://github.com/code-charity/youtube) | 4,575 | 2,367 |
-| [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4,532 | 3,967 |
-| [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) | 4,438 | 1,477 |
+| [code-charity/youtube](https://github.com/code-charity/youtube) | 4,576 | 2,367 |
+| [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4,533 | 3,967 |
+| [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) | 4,439 | 1,477 |
 | [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) | 3,931 | 91 |
 | [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) | 2,668 | 1,605 |
 | [maplibre/maputnik](https://github.com/maplibre/maputnik) | 2,629 | 621 |
@@ -37,28 +37,29 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 | [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) | 2,074 | 1,939 |
 | [xdan/jodit](https://github.com/xdan/jodit) | 1,960 | 588 |
 | [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) | 1,733 | 29 |
-| [doctorhetfield-cmd/simpleui.koplugin](https://github.com/doctorhetfield-cmd/simpleui.koplugin) | 1,692 | 4,133 |
-| [WiVRn/WiVRn](https://github.com/WiVRn/WiVRn) | 1,643 | 2,004 |
+| [doctorhetfield-cmd/simpleui.koplugin](https://github.com/doctorhetfield-cmd/simpleui.koplugin) | 1,699 | 4,133 |
+| [WiVRn/WiVRn](https://github.com/WiVRn/WiVRn) | 1,650 | 2,004 |
 | [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue) | 1,633 | 364 |
 | [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon) | 1,587 | 1,472 |
 | [lissy93/domain-locker](https://github.com/lissy93/domain-locker) | 1,512 | 874 |
+| [eddyizm/tempus](https://github.com/eddyizm/tempus) | 1,283 | 3,924 |
 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | 1,113 | 1,893 |
 | [atbc-org/Adaptive-Tab-Bar-Colour](https://github.com/atbc-org/Adaptive-Tab-Bar-Colour) | 800 | 726 |
-| [Kesomannen/gale](https://github.com/Kesomannen/gale) | 751 | 2,108 |
+| [Kesomannen/gale](https://github.com/Kesomannen/gale) | 754 | 2,108 |
 | [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) | 713 | 180 |
-| [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) | 663 | 5,250 |
+| [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) | 665 | 5,250 |
 | [spruceUI/spruceOS](https://github.com/spruceUI/spruceOS) | 633 | 312 |
 | [akashdh11/skystream](https://github.com/akashdh11/skystream) | 572 | 3,704 |
-| [omer-faruq/appstore.koplugin](https://github.com/omer-faruq/appstore.koplugin) | 544 | 1,522 |
+| [omer-faruq/appstore.koplugin](https://github.com/omer-faruq/appstore.koplugin) | 547 | 1,522 |
 | [ScratchEverywhere/ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere) | 539 | 495 |
-| [maplibre/navara](https://github.com/maplibre/navara) | 332 | 637 |
+| [maplibre/navara](https://github.com/maplibre/navara) | 334 | 637 |
 | [alefragnani/vscode-language-pascal](https://github.com/alefragnani/vscode-language-pascal) | 272 | 327 |
 | [alefragnani/vscode-numbered-bookmarks](https://github.com/alefragnani/vscode-numbered-bookmarks) | 174 | 710 |
 | [primefaces/primelocale](https://github.com/primefaces/primelocale) | 131 | 251 |
 | [alefragnani/vscode-pascal-formatter](https://github.com/alefragnani/vscode-pascal-formatter) | 38 | 597 |
 | [alefragnani/vscode-read-only-indicator](https://github.com/alefragnani/vscode-read-only-indicator) | 31 | 143 |
 
-56 merged pull requests into 53 projects carrying 768,093 stars in total, 194,591 words of Azerbaijani.
+57 merged pull requests into 54 projects carrying 769,795 stars in total, 198,515 words of Azerbaijani.
 
 ## How the list is built
 
