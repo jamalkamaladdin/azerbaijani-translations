@@ -95,7 +95,7 @@ def is_translation(title):
     return bool(re.search(r"\baz\b", t)) and bool(re.search(r"locale|i18n|translation|lang", t))
 
 def collect():
-    out = gh("api", "-X", "GET", "search/issues",
+    out = gh("api", "--paginate", "-X", "GET", "search/issues",
              "-f", "q=is:pr author:%s is:merged" % USER, "-f", "per_page=100",
              "--jq", ".items[] | {n:.number, t:.title, u:.html_url, r:.repository_url}")
     rows = []
