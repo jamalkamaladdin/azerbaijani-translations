@@ -4,11 +4,11 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 
 | Project | Stars | Words |
 |---|---:|---:|
-| [langgenius/dify](https://github.com/langgenius/dify) | 157,026 | 26,795 |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 146,934 | 4,359 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 157,028 | 26,795 |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 146,937 | 4,359 |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 125,405 | 2,753 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 124,399 | 3,199 |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 116,824 | 3,439 |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 116,827 | 3,439 |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,243 | 17,189 |
 | [usememos/memos](https://github.com/usememos/memos) | 63,297 | 3,976 |
 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | 55,415 | 2,751 |
@@ -17,11 +17,11 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 | [transloadit/uppy](https://github.com/transloadit/uppy) | 30,996 | 702 |
 | [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | 26,988 | 1,340 |
 | [lissy93/dashy](https://github.com/lissy93/dashy) | 26,552 | 1,748 |
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,496 | 1,464 |
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 20,578 | 40,894 |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,497 | 1,464 |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 20,581 | 40,894 |
 | [getmaxun/maxun](https://github.com/getmaxun/maxun) | 17,557 | 1,871 |
 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16,126 | 4,661 |
-| [faker-js/faker](https://github.com/faker-js/faker) | 15,495 | 951 |
+| [faker-js/faker](https://github.com/faker-js/faker) | 15,495 | 1,357 |
 | [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 15,161 | 57 |
 | [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 14,309 | 16,487 |
 | [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) | 13,577 | 4,543 |
@@ -69,7 +69,7 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 | [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) | 701 | 5,250 |
 | [spruceUI/spruceOS](https://github.com/spruceUI/spruceOS) | 662 | 312 |
 | [ferraridamiano/ConverterNOW](https://github.com/ferraridamiano/ConverterNOW) | 624 | 743 |
-| [akashdh11/skystream](https://github.com/akashdh11/skystream) | 587 | 3,704 |
+| [akashdh11/skystream](https://github.com/akashdh11/skystream) | 586 | 3,704 |
 | [omer-faruq/appstore.koplugin](https://github.com/omer-faruq/appstore.koplugin) | 573 | 1,522 |
 | [ScratchEverywhere/ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere) | 539 | 495 |
 | [maplibre/navara](https://github.com/maplibre/navara) | 355 | 637 |
@@ -81,7 +81,7 @@ Azerbaijani (az) locale files I wrote and got merged into open source projects.
 | [alefragnani/vscode-pascal-formatter](https://github.com/alefragnani/vscode-pascal-formatter) | 39 | 597 |
 | [alefragnani/vscode-read-only-indicator](https://github.com/alefragnani/vscode-read-only-indicator) | 31 | 143 |
 
-78 merged pull requests into 76 projects carrying 1,366,077 stars in total, 314,451 words of Azerbaijani.
+80 merged pull requests into 76 projects carrying 1,366,088 stars in total, 314,857 words of Azerbaijani.
 
 ## How the list is built
 
