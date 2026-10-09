@@ -1,0 +1,20 @@
+en: Help
+az: Kömək
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 22
+    agreement: 0.91
+    forms:
+      Kömək: 20
+      Yardım: 2
+      Köməyin: 1
+  firefox:
+    Kömək: 6
+  gnome:
+    Yardım: 3
+    Kömək: 1
+  libreoffice:
+    Kömək: 34
+    Yardım: 7

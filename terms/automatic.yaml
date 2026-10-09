@@ -1,0 +1,13 @@
+en: Automatic
+az: Avtomatik
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 10
+    agreement: 1.0
+    forms:
+      Avtomatik: 10
+  libreoffice:
+    Avtomatik: 15
+    Avtmatik: 2

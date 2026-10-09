@@ -1,0 +1,17 @@
+en: Enabled
+az: Aktivdir
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 26
+    agreement: 0.73
+    forms:
+      Aktivdir: 19
+      Aktiv: 4
+      Aktivləşdirilib: 1
+      Aktivləşdirilmiş: 1
+  firefox:
+    Aktivdir: 3
+  gnome:
+    Aktivdir: 1

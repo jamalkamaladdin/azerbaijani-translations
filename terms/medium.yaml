@@ -1,0 +1,17 @@
+en: Medium
+az: Orta
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 20
+    agreement: 0.95
+    forms:
+      Orta: 19
+      Vasitə: 1
+  firefox:
+    Orta: 1
+  gnome:
+    Orta: 1
+  libreoffice:
+    Orta: 1

@@ -1,0 +1,17 @@
+en: Continue
+az: Davam et
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 15
+    agreement: 1.0
+    forms:
+      Davam et: 15
+  firefox:
+    Davam et: 6
+    İrəli: 1
+  gnome:
+    Davam et: 1
+  libreoffice:
+    Davam et: 1

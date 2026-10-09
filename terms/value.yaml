@@ -1,0 +1,17 @@
+en: Value
+az: Dəyər
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 15
+    agreement: 1.0
+    forms:
+      Dəyər: 15
+      Qiymət: 2
+  firefox:
+    Dəyər: 5
+  gnome:
+    Dəyər: 1
+  libreoffice:
+    Dəyər: 60

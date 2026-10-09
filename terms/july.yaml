@@ -1,0 +1,12 @@
+en: July
+az: İyul
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 1.0
+    forms:
+      İyul: 9
+  gnome:
+    İyul: 1

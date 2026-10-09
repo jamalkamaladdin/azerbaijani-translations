@@ -1,0 +1,13 @@
+en: Created
+az: Yaradılıb
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 12
+    agreement: 1.0
+    forms:
+      Yaradılıb: 12
+      Yaradıldı: 2
+  firefox:
+    Yaradılıb: 1

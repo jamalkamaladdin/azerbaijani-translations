@@ -1,0 +1,12 @@
+en: Searching
+az: Axtarılır
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 11
+    agreement: 1.0
+    forms:
+      Axtarılır: 11
+  libreoffice:
+    Axtarılır: 1

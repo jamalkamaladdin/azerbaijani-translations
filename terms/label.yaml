@@ -1,0 +1,17 @@
+en: Label
+az: Etiket
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 0.89
+    forms:
+      Etiket: 8
+      Yazı: 1
+  firefox:
+    Etiket: 1
+  gnome:
+    Etiket: 1
+  libreoffice:
+    Etiket: 4

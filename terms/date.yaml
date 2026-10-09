@@ -1,0 +1,12 @@
+en: Date
+az: Tarix
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 20
+    agreement: 1.0
+    forms:
+      Tarix: 20
+  libreoffice:
+    Tarix: 4

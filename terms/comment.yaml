@@ -1,0 +1,12 @@
+en: Comment
+az: Şərh
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 12
+    agreement: 1.0
+    forms:
+      Şərh: 12
+  gnome:
+    Şərh: 2

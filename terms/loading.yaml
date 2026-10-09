@@ -1,0 +1,14 @@
+en: Loading
+az: Yüklənir
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 26
+    agreement: 1.0
+    forms:
+      Yüklənir: 26
+  firefox:
+    Yüklənir: 4
+  libreoffice:
+    Yüklənir: 2

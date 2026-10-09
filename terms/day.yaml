@@ -1,0 +1,14 @@
+en: Day
+az: Gün
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 1.0
+    forms:
+      Gün: 9
+  firefox:
+    Gün: 1
+  libreoffice:
+    Gün: 1

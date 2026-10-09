@@ -1,0 +1,12 @@
+en: June
+az: İyun
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 1.0
+    forms:
+      İyun: 9
+  gnome:
+    İyun: 1

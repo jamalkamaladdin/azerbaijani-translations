@@ -1,0 +1,19 @@
+en: Image
+az: Şəkil
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 14
+    agreement: 0.93
+    forms:
+      Şəkil: 13
+      Təsvir: 1
+      Obraz: 1
+  firefox:
+    Şəkil: 1
+  gnome:
+    Rəsm: 1
+    Şəkil: 1
+  libreoffice:
+    Şəkil: 1

@@ -1,0 +1,18 @@
+en: Add
+az: Əlavə et
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 32
+    agreement: 1.0
+    forms:
+      Əlavə et: 32
+      Əlavə etmə: 1
+      Diqqəti toplamaqda çətinlik: 1
+  firefox:
+    Əlavə et: 8
+  gnome:
+    Əlavə et: 1
+  libreoffice:
+    Əlavə et: 43

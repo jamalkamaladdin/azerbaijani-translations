@@ -1,0 +1,13 @@
+en: More
+az: Daha çox
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 20
+    agreement: 0.95
+    forms:
+      Daha çox: 19
+      Daha çox göstər: 2
+  libreoffice:
+    Daha çox: 6

@@ -1,0 +1,17 @@
+en: Right
+az: Sağ
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 12
+    agreement: 0.75
+    forms:
+      Sağ: 9
+      Sağa: 2
+      Sağa düzləndir: 1
+      Sağa dön: 1
+  firefox:
+    Sağ: 3
+  libreoffice:
+    Sağ: 11

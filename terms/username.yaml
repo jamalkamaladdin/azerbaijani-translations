@@ -1,0 +1,14 @@
+en: Username
+az: İstifadəçi adı
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 30
+    agreement: 1.0
+    forms:
+      İstifadəçi adı: 30
+  firefox:
+    İstifadəçi adı: 2
+  gnome:
+    İstifadəçi adı: 2

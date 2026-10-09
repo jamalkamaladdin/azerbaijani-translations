@@ -1,0 +1,14 @@
+en: Other
+az: Digər
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 18
+    agreement: 1.0
+    forms:
+      Digər: 18
+  firefox:
+    Digər: 2
+  libreoffice:
+    Digər: 1

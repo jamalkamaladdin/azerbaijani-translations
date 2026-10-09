@@ -1,0 +1,17 @@
+en: Open
+az: Aç
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 23
+    agreement: 0.87
+    forms:
+      Aç: 20
+      Açıq: 5
+  firefox:
+    Aç: 7
+  gnome:
+    Aç: 6
+  libreoffice:
+    Aç: 5

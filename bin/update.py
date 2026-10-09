@@ -165,8 +165,14 @@ def main():
     with open(os.path.join(ROOT, "data", "translations.json"), "w", encoding="utf-8") as fh:
         json.dump(rows, fh, ensure_ascii=False, indent=2)
         fh.write("\n")
+    text = render(rows)
+    # the azterm term base section (tools/azterm.py) survives every list refresh
+    if os.path.exists(os.path.join(ROOT, "dist", "azterm.json")):
+        sys.path.insert(0, os.path.join(ROOT, "tools"))
+        import azterm
+        text = text.replace("## How the list is built", azterm.readme_section() + "\n\n## How the list is built", 1)
     with open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8") as fh:
-        fh.write(render(rows))
+        fh.write(text)
     print("%d merged translation PR yazildi" % len(rows))
 
 if __name__ == "__main__":

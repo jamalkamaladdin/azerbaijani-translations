@@ -1,0 +1,14 @@
+en: Small
+az: Kiçik
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 11
+    agreement: 1.0
+    forms:
+      Kiçik: 11
+  firefox:
+    Kiçik: 1
+  libreoffice:
+    Kiçik: 1

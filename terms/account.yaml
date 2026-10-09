@@ -1,0 +1,14 @@
+en: Account
+az: Hesab
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 14
+    agreement: 1.0
+    forms:
+      Hesab: 14
+  firefox:
+    Hesab: 2
+  libreoffice:
+    Hesab: 1

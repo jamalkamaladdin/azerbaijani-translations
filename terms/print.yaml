@@ -1,0 +1,18 @@
+en: Print
+az: Çap et
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 1.0
+    forms:
+      Çap et: 9
+      Çap: 1
+  firefox:
+    Çap et: 5
+    Yazdır: 3
+  gnome:
+    Çap et: 1
+  libreoffice:
+    Çap et: 1

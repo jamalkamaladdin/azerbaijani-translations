@@ -1,0 +1,12 @@
+en: Code
+az: Kod
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 10
+    agreement: 1.0
+    forms:
+      Kod: 10
+  libreoffice:
+    Kod: 1

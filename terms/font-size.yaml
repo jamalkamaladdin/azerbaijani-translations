@@ -1,0 +1,15 @@
+en: Font size
+az: Şrift ölçüsü
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 12
+    agreement: 0.92
+    forms:
+      Şrift ölçüsü: 11
+      Şriftin ölçüsü: 1
+  firefox:
+    Şrift ölçüsü: 1
+  gnome:
+    Şrift ölçüsü: 1

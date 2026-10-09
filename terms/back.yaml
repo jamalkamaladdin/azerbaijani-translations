@@ -1,0 +1,19 @@
+en: Back
+az: Geri
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 25
+    agreement: 0.72
+    forms:
+      Geri: 18
+      Geri qayıt: 6
+      Geri get: 1
+  firefox:
+    Geri: 5
+    Geri qayıt: 1
+  gnome:
+    Geri: 5
+  libreoffice:
+    Geri: 1

@@ -1,0 +1,17 @@
+en: Type
+az: Növ
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 28
+    agreement: 1.0
+    forms:
+      Növ: 28
+  firefox:
+    Format: 4
+    Növü: 1
+  gnome:
+    Növ: 4
+  libreoffice:
+    Növ: 51

@@ -1,0 +1,13 @@
+en: Submit
+az: Göndər
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 12
+    agreement: 0.92
+    forms:
+      Göndər: 11
+      Təqdim et: 2
+  firefox:
+    Göndər: 1

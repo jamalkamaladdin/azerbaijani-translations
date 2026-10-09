@@ -1,0 +1,18 @@
+en: Filter
+az: Süzgəc
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 21
+    agreement: 0.95
+    forms:
+      Süzgəc: 20
+      Süz: 2
+      Filtr: 1
+  firefox:
+    Süzgəc: 1
+  gnome:
+    Filtr: 1
+  libreoffice:
+    Süzgəc: 3

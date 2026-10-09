@@ -1,0 +1,12 @@
+en: Actions
+az: Əməliyyatlar
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 21
+    agreement: 1.0
+    forms:
+      Əməliyyatlar: 21
+  firefox:
+    Əməliyyatlar: 3

@@ -1,0 +1,14 @@
+en: Author
+az: Müəllif
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 15
+    agreement: 1.0
+    forms:
+      Müəllif: 15
+  firefox:
+    Müəllif: 2
+  libreoffice:
+    Müəllif: 17

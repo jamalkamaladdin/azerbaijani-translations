@@ -1,0 +1,18 @@
+en: Import
+az: İdxal et
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 21
+    agreement: 0.95
+    forms:
+      İdxal et: 20
+      İdxal: 4
+  firefox:
+    İdxal et: 2
+  gnome:
+    İdxal et: 1
+  libreoffice:
+    İdxal et: 5
+    İdxal: 1

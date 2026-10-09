@@ -1,0 +1,12 @@
+en: Create
+az: Yarat
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 19
+    agreement: 1.0
+    forms:
+      Yarat: 19
+  firefox:
+    Yarat: 1

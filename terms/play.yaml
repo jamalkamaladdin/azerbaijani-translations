@@ -1,0 +1,19 @@
+en: Play
+az: Oynat
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 10
+    agreement: 0.7
+    forms:
+      Oynat: 7
+      Səsləndir: 3
+      Başlat: 1
+  firefox:
+    Oynat: 2
+    Göstər: 1
+  gnome:
+    Oynat: 1
+  libreoffice:
+    Oynat: 3

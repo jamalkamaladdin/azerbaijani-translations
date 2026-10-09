@@ -1,0 +1,15 @@
+en: Send
+az: Göndər
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 10
+    agreement: 0.9
+    forms:
+      Göndər: 9
+      Göndərmə: 1
+  firefox:
+    Göndər: 2
+  gnome:
+    Göndər: 1

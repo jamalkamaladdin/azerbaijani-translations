@@ -1,0 +1,16 @@
+en: Table
+az: Cədvəl
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 10
+    agreement: 1.0
+    forms:
+      Cədvəl: 10
+  firefox:
+    Cədvəl: 1
+  gnome:
+    Cədvəl: 1
+  libreoffice:
+    Cədvəl: 3

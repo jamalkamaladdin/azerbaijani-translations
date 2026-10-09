@@ -1,0 +1,17 @@
+en: Group
+az: Qrup
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 14
+    agreement: 1.0
+    forms:
+      Qrup: 14
+      Qruplaşdır: 1
+  firefox:
+    Qrup: 1
+  gnome:
+    Qrup: 1
+  libreoffice:
+    Qruplaşdır: 2

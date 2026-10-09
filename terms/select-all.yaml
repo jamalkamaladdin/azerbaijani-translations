@@ -1,0 +1,14 @@
+en: Select all
+az: Hamısını seç
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 20
+    agreement: 1.0
+    forms:
+      Hamısını seç: 20
+  firefox:
+    Hamısını seç: 6
+  gnome:
+    Hamısını seç: 4

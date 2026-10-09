@@ -1,0 +1,17 @@
+en: Options
+az: Seçimlər
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 17
+    agreement: 0.76
+    forms:
+      Seçimlər: 13
+      Parametrlər: 4
+  firefox:
+    Seçimlər: 3
+    Nizamlar: 3
+  libreoffice:
+    Seçimlər: 34
+    Parametrlər: 1

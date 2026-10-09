@@ -1,0 +1,19 @@
+en: Cancel
+az: Ləğv et
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 58
+    agreement: 1.0
+    forms:
+      Ləğv et: 58
+  firefox:
+    Ləğv et: 32
+  gnome:
+    Ləğv et: 3
+    İmtina et: 1
+  libreoffice:
+    Ləğv et: 34
+    Ləğv: 1
+    İmtina: 1

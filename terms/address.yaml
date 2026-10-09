@@ -1,0 +1,18 @@
+en: Address
+az: Ünvan
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 1.0
+    forms:
+      Ünvan: 9
+  firefox:
+    Ünvan: 1
+    URL: 1
+    Adres: 1
+  gnome:
+    Ünvan: 1
+  libreoffice:
+    Ünvan: 1

@@ -1,0 +1,13 @@
+en: High
+az: Yüksək
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 13
+    agreement: 1.0
+    forms:
+      Yüksək: 13
+      Yuxarı: 1
+  gnome:
+    Yüksək: 1

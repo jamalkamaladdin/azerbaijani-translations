@@ -1,0 +1,18 @@
+en: Today
+az: Bu gün
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 15
+    agreement: 1.0
+    forms:
+      Bu gün: 15
+  firefox:
+    Bu gün: 3
+    Bugün: 2
+  gnome:
+    Bu gün: 1
+  libreoffice:
+    Bugün: 1
+    Bu gün: 1

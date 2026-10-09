@@ -1,0 +1,16 @@
+en: Status
+az: Vəziyyət
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 30
+    agreement: 1.0
+    forms:
+      Vəziyyət: 30
+  firefox:
+    Durum: 4
+  gnome:
+    Vəziyyət: 1
+  libreoffice:
+    Vəziyyət: 1

@@ -1,0 +1,12 @@
+en: Restore
+az: Bərpa et
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 19
+    agreement: 1.0
+    forms:
+      Bərpa et: 19
+  firefox:
+    Bərpa et: 2

@@ -1,0 +1,16 @@
+en: Error
+az: Xəta
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 28
+    agreement: 1.0
+    forms:
+      Xəta: 28
+  firefox:
+    Xəta: 7
+  gnome:
+    Xəta: 2
+  libreoffice:
+    Xəta: 2

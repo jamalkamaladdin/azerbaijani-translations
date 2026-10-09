@@ -1,0 +1,18 @@
+en: Unknown
+az: Naməlum
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 29
+    agreement: 1.0
+    forms:
+      Naməlum: 29
+  firefox:
+    Bilinmir: 4
+    Bilinməyən: 2
+  gnome:
+    Naməlum: 5
+    Namə'lum: 3
+  libreoffice:
+    Naməlum: 6

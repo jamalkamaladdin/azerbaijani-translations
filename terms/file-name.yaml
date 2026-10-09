@@ -1,0 +1,15 @@
+en: File name
+az: Fayl adı
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 10
+    agreement: 0.8
+    forms:
+      Fayl adı: 8
+      Faylın adı: 2
+  firefox:
+    Fayl adı: 1
+  libreoffice:
+    Fayl adı: 1

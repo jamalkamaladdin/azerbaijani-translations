@@ -1,0 +1,14 @@
+en: Calendar
+az: Təqvim
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 10
+    agreement: 1.0
+    forms:
+      Təqvim: 10
+  gnome:
+    Təqvim: 1
+  libreoffice:
+    Təqvim: 1

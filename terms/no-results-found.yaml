@@ -1,0 +1,12 @@
+en: No results found
+az: Nəticə tapılmadı
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 16
+    agreement: 1.0
+    forms:
+      Nəticə tapılmadı: 16
+  firefox:
+    Nəticə tapılmadı: 1

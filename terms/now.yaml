@@ -1,0 +1,12 @@
+en: Now
+az: İndi
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 1.0
+    forms:
+      İndi: 9
+  libreoffice:
+    İndi: 1

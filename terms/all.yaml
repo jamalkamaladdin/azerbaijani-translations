@@ -1,0 +1,14 @@
+en: All
+az: Hamısı
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 27
+    agreement: 1.0
+    forms:
+      Hamısı: 27
+  firefox:
+    Hamısı: 2
+  libreoffice:
+    Hamısı: 9

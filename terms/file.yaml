@@ -1,0 +1,17 @@
+en: File
+az: Fayl
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 20
+    agreement: 1.0
+    forms:
+      Fayl: 20
+  firefox:
+    Fayl: 3
+    Fayl:\u0020: 1
+  gnome:
+    Fayl: 1
+  libreoffice:
+    Fayl: 1

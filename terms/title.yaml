@@ -1,0 +1,18 @@
+en: Title
+az: Başlıq
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 24
+    agreement: 0.96
+    forms:
+      Başlıq: 23
+      Ad: 1
+  firefox:
+    Başlık: 4
+    Başlıq: 2
+  gnome:
+    Başlıq: 2
+  libreoffice:
+    Başlıq: 44

@@ -1,0 +1,12 @@
+en: Tools
+az: Alətlər
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 11
+    agreement: 1.0
+    forms:
+      Alətlər: 11
+  firefox:
+    Alətlər: 3

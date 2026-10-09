@@ -1,0 +1,13 @@
+en: Or
+az: Və ya
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 19
+    agreement: 1.0
+    forms:
+      Və ya: 19
+  libreoffice:
+    Və ya: 3
+    Vəya: 2

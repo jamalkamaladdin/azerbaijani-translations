@@ -1,0 +1,15 @@
+en: Share
+az: Paylaş
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 17
+    agreement: 1.0
+    forms:
+      Paylaş: 17
+      Pay: 1
+      Paylaşma: 1
+      Paylaşım: 1
+  firefox:
+    Paylaş: 1

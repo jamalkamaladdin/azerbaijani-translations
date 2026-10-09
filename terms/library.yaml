@@ -1,0 +1,14 @@
+en: Library
+az: Kitabxana
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 1.0
+    forms:
+      Kitabxana: 9
+  firefox:
+    Kitabxana: 2
+  libreoffice:
+    Kitabxana: 4

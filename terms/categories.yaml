@@ -1,0 +1,12 @@
+en: Categories
+az: Kateqoriyalar
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 15
+    agreement: 1.0
+    forms:
+      Kateqoriyalar: 15
+  libreoffice:
+    Kateqoriyalar: 2

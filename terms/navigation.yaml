@@ -1,0 +1,13 @@
+en: Navigation
+az: Naviqasiya
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 11
+    agreement: 1.0
+    forms:
+      Naviqasiya: 11
+  firefox:
+    Naviqasiya: 1
+    Gəzinmə: 1

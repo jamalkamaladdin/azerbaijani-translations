@@ -1,0 +1,12 @@
+en: April
+az: Aprel
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 1.0
+    forms:
+      Aprel: 9
+  gnome:
+    Aprel: 1

@@ -1,0 +1,15 @@
+en: 'Yes'
+az: Bəli
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 28
+    agreement: 1.0
+    forms:
+      Bəli: 28
+  firefox:
+    Bəli: 6
+  libreoffice:
+    Bəli: 36
+    Hə: 13

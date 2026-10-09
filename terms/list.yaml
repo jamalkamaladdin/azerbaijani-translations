@@ -1,0 +1,14 @@
+en: List
+az: Siyahı
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 17
+    agreement: 1.0
+    forms:
+      Siyahı: 17
+  firefox:
+    Siyahı: 1
+  gnome:
+    Siyahı: 1

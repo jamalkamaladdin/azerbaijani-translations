@@ -1,0 +1,17 @@
+en: Name
+az: Ad
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 46
+    agreement: 1.0
+    forms:
+      Ad: 46
+  firefox:
+    Ad: 13
+    Adı: 3
+  gnome:
+    Ad: 4
+  libreoffice:
+    Ad: 19

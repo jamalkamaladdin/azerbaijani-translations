@@ -1,0 +1,15 @@
+en: Paste
+az: Yapışdır
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 15
+    agreement: 0.93
+    forms:
+      Yapışdır: 14
+      Yerləşdir: 1
+  firefox:
+    Yapışdır: 3
+  gnome:
+    Yapışdır: 3

@@ -1,0 +1,18 @@
+en: Close
+az: Bağla
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 41
+    agreement: 1.0
+    forms:
+      Bağla: 41
+  firefox:
+    Qapat: 13
+    Bağla: 7
+  gnome:
+    Bağla: 6
+  libreoffice:
+    Bağla: 34
+    Qapat: 12

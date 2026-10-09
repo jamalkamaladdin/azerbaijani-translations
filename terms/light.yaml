@@ -1,0 +1,16 @@
+en: Light
+az: Açıq
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 25
+    agreement: 0.84
+    forms:
+      Açıq: 21
+      İşıqlı: 4
+  firefox:
+    Açıq: 3
+  libreoffice:
+    Açıq: 1
+    İşıqlı: 1

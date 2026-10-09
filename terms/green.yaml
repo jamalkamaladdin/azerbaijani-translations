@@ -1,0 +1,14 @@
+en: Green
+az: Yaşıl
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 13
+    agreement: 1.0
+    forms:
+      Yaşıl: 13
+  firefox:
+    Yaşıl: 1
+  libreoffice:
+    Yaşıl: 1

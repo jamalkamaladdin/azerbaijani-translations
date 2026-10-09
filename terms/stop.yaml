@@ -1,0 +1,19 @@
+en: Stop
+az: Dayandır
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 14
+    agreement: 1.0
+    forms:
+      Dayandır: 14
+      Dayandırın: 1
+  firefox:
+    Dayandır: 2
+    Dayan: 2
+  gnome:
+    Dayandır: 1
+    Dayan: 1
+  libreoffice:
+    Dayan: 6

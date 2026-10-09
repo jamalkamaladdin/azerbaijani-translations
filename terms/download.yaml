@@ -1,0 +1,17 @@
+en: Download
+az: Endir
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 24
+    agreement: 0.75
+    forms:
+      Endir: 18
+      Yüklə: 4
+      Endirmə: 3
+      Endirin: 1
+  firefox:
+    Endir: 3
+  gnome:
+    Endir: 1

@@ -1,0 +1,18 @@
+en: Undo
+az: Geri al
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 15
+    agreement: 0.93
+    forms:
+      Geri al: 14
+      Geri qaytar: 3
+      Geri qaytarma: 1
+  firefox:
+    Geri al: 2
+  gnome:
+    Geri al: 2
+  libreoffice:
+    Ləğv et: 1

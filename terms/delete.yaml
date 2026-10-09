@@ -1,0 +1,20 @@
+en: Delete
+az: Sil
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 45
+    agreement: 1.0
+    forms:
+      Sil: 45
+      Silinsin: 2
+      Bu apı silinsin: 1
+      Silinmə: 1
+  firefox:
+    Sil: 5
+  gnome:
+    Sil: 3
+  libreoffice:
+    Sil: 40
+    Silmək: 1

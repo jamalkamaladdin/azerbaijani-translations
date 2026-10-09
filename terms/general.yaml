@@ -1,0 +1,17 @@
+en: General
+az: Ümumi
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 28
+    agreement: 1.0
+    forms:
+      Ümumi: 28
+  firefox:
+    Ümumi: 2
+  gnome:
+    Ümumi: 6
+  libreoffice:
+    Ümumi: 3
+    Əsas: 1

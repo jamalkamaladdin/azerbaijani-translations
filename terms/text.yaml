@@ -1,0 +1,16 @@
+en: Text
+az: Mətn
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 17
+    agreement: 1.0
+    forms:
+      Mətn: 17
+  firefox:
+    Mətn: 1
+  gnome:
+    Mətn: 2
+  libreoffice:
+    Mətn: 9

@@ -1,0 +1,17 @@
+en: 'No'
+az: Xeyr
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 30
+    agreement: 1.0
+    forms:
+      Xeyr: 30
+      №: 1
+  firefox:
+    Xeyr: 6
+    Yox: 1
+  libreoffice:
+    Xeyr: 35
+    Yox: 17

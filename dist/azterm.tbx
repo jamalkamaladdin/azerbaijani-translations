@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<martif type="TBX" xml:lang="en">
+ <martifHeader><fileDesc><sourceDesc><p>azterm: Azerbaijani software terminology, https://github.com/jamalkamaladdin/azerbaijani-translations (CC BY 4.0)</p></sourceDesc></fileDesc></martifHeader>
+ <text><body>
+  <termEntry id="account">
+   <langSet xml:lang="en"><tig><term>Account</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Hesab</term></tig></langSet>
+  </termEntry>
+  <termEntry id="actions">
+   <langSet xml:lang="en"><tig><term>Actions</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Əməliyyatlar</term></tig></langSet>
+  </termEntry>
+  <termEntry id="add">
+   <langSet xml:lang="en"><tig><term>Add</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Əlavə et</term></tig></langSet>
+  </termEntry>
+  <termEntry id="address">
+   <langSet xml:lang="en"><tig><term>Address</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Ünvan</term></tig></langSet>
+  </termEntry>
+  <termEntry id="all">
+   <langSet xml:lang="en"><tig><term>All</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Hamısı</term></tig></langSet>
+  </termEntry>
+  <termEntry id="appearance">
+   <langSet xml:lang="en"><tig><term>Appearance</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Görünüş</term></tig></langSet>
+  </termEntry>
+  <termEntry id="apply">
+   <langSet xml:lang="en"><tig><term>Apply</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Tətbiq et</term></tig></langSet>
+  </termEntry>
+  <termEntry id="april">
+   <langSet xml:lang="en"><tig><term>April</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Aprel</term></tig></langSet>
+  </termEntry>
+  <termEntry id="author">
+   <langSet xml:lang="en"><tig><term>Author</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Müəllif</term></tig></langSet>
+  </termEntry>
+  <termEntry id="automatic">
+   <langSet xml:lang="en"><tig><term>Automatic</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Avtomatik</term></tig></langSet>
+  </termEntry>
+  <termEntry id="back">
+   <langSet xml:lang="en"><tig><term>Back</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Geri</term></tig></langSet>
+  </termEntry>
+  <termEntry id="calendar">
+   <langSet xml:lang="en"><tig><term>Calendar</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Təqvim</term></tig></langSet>
+  </termEntry>
+  <termEntry id="cancel">
+   <langSet xml:lang="en"><tig><term>Cancel</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Ləğv et</term></tig></langSet>
+  </termEntry>
+  <termEntry id="categories">
+   <langSet xml:lang="en"><tig><term>Categories</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Kateqoriyalar</term></tig></langSet>
+  </termEntry>
+  <termEntry id="category">
+   <langSet xml:lang="en"><tig><term>Category</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Kateqoriya</term></tig></langSet>
+  </termEntry>
+  <termEntry id="change-password">
+   <langSet xml:lang="en"><tig><term>Change password</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Parolu dəyiş</term></tig></langSet>
+  </termEntry>
+  <termEntry id="clear">
+   <langSet xml:lang="en"><tig><term>Clear</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Təmizlə</term></tig></langSet>
+  </termEntry>
+  <termEntry id="close">
+   <langSet xml:lang="en"><tig><term>Close</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Bağla</term></tig></langSet>
+  </termEntry>
+  <termEntry id="code">
+   <langSet xml:lang="en"><tig><term>Code</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Kod</term></tig></langSet>
+  </termEntry>
+  <termEntry id="comment">
+   <langSet xml:lang="en"><tig><term>Comment</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Şərh</term></tig></langSet>
+  </termEntry>
+  <termEntry id="comments">
+   <langSet xml:lang="en"><tig><term>Comments</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Şərhlər</term></tig></langSet>
+  </termEntry>
+  <termEntry id="continue">
+   <langSet xml:lang="en"><tig><term>Continue</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Davam et</term></tig></langSet>
+  </termEntry>
+  <termEntry id="create">
+   <langSet xml:lang="en"><tig><term>Create</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yarat</term></tig></langSet>
+  </termEntry>
+  <termEntry id="created">
+   <langSet xml:lang="en"><tig><term>Created</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yaradılıb</term></tig></langSet>
+  </termEntry>
+  <termEntry id="date">
+   <langSet xml:lang="en"><tig><term>Date</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Tarix</term></tig></langSet>
+  </termEntry>
+  <termEntry id="day">
+   <langSet xml:lang="en"><tig><term>Day</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Gün</term></tig></langSet>
+  </termEntry>
+  <termEntry id="delete">
+   <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Sil</term></tig></langSet>
+  </termEntry>
+  <termEntry id="download">
+   <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Endir</term></tig></langSet>
+  </termEntry>
+  <termEntry id="email">
+   <langSet xml:lang="en"><tig><term>Email</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>E-poçt</term></tig></langSet>
+  </termEntry>
+  <termEntry id="enabled">
+   <langSet xml:lang="en"><tig><term>Enabled</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Aktivdir</term></tig></langSet>
+  </termEntry>
+  <termEntry id="error">
+   <langSet xml:lang="en"><tig><term>Error</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Xəta</term></tig></langSet>
+  </termEntry>
+  <termEntry id="export">
+   <langSet xml:lang="en"><tig><term>Export</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>İxrac et</term></tig></langSet>
+  </termEntry>
+  <termEntry id="february">
+   <langSet xml:lang="en"><tig><term>February</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Fevral</term></tig></langSet>
+  </termEntry>
+  <termEntry id="file">
+   <langSet xml:lang="en"><tig><term>File</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Fayl</term></tig></langSet>
+  </termEntry>
+  <termEntry id="file-name">
+   <langSet xml:lang="en"><tig><term>File name</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Fayl adı</term></tig></langSet>
+  </termEntry>
+  <termEntry id="filter">
+   <langSet xml:lang="en"><tig><term>Filter</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Süzgəc</term></tig></langSet>
+  </termEntry>
+  <termEntry id="folder">
+   <langSet xml:lang="en"><tig><term>Folder</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Qovluq</term></tig></langSet>
+  </termEntry>
+  <termEntry id="font-size">
+   <langSet xml:lang="en"><tig><term>Font size</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Şrift ölçüsü</term></tig></langSet>
+  </termEntry>
+  <termEntry id="general">
+   <langSet xml:lang="en"><tig><term>General</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Ümumi</term></tig></langSet>
+  </termEntry>
+  <termEntry id="green">
+   <langSet xml:lang="en"><tig><term>Green</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yaşıl</term></tig></langSet>
+  </termEntry>
+  <termEntry id="group">
+   <langSet xml:lang="en"><tig><term>Group</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Qrup</term></tig></langSet>
+  </termEntry>
+  <termEntry id="help">
+   <langSet xml:lang="en"><tig><term>Help</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Kömək</term></tig></langSet>
+  </termEntry>
+  <termEntry id="high">
+   <langSet xml:lang="en"><tig><term>High</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yüksək</term></tig></langSet>
+  </termEntry>
+  <termEntry id="image">
+   <langSet xml:lang="en"><tig><term>Image</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Şəkil</term></tig></langSet>
+  </termEntry>
+  <termEntry id="import">
+   <langSet xml:lang="en"><tig><term>Import</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>İdxal et</term></tig></langSet>
+  </termEntry>
+  <termEntry id="info">
+   <langSet xml:lang="en"><tig><term>Info</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Məlumat</term></tig></langSet>
+  </termEntry>
+  <termEntry id="installing">
+   <langSet xml:lang="en"><tig><term>Installing</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Quraşdırılır</term></tig></langSet>
+  </termEntry>
+  <termEntry id="january">
+   <langSet xml:lang="en"><tig><term>January</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yanvar</term></tig></langSet>
+  </termEntry>
+  <termEntry id="july">
+   <langSet xml:lang="en"><tig><term>July</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>İyul</term></tig></langSet>
+  </termEntry>
+  <termEntry id="june">
+   <langSet xml:lang="en"><tig><term>June</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>İyun</term></tig></langSet>
+  </termEntry>
+  <termEntry id="key">
+   <langSet xml:lang="en"><tig><term>Key</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Açar</term></tig></langSet>
+  </termEntry>
+  <termEntry id="label">
+   <langSet xml:lang="en"><tig><term>Label</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Etiket</term></tig></langSet>
+  </termEntry>
+  <termEntry id="language">
+   <langSet xml:lang="en"><tig><term>Language</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Dil</term></tig></langSet>
+  </termEntry>
+  <termEntry id="large">
+   <langSet xml:lang="en"><tig><term>Large</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Böyük</term></tig></langSet>
+  </termEntry>
+  <termEntry id="left">
+   <langSet xml:lang="en"><tig><term>Left</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Sol</term></tig></langSet>
+  </termEntry>
+  <termEntry id="library">
+   <langSet xml:lang="en"><tig><term>Library</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Kitabxana</term></tig></langSet>
+  </termEntry>
+  <termEntry id="light">
+   <langSet xml:lang="en"><tig><term>Light</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Açıq</term></tig></langSet>
+  </termEntry>
+  <termEntry id="list">
+   <langSet xml:lang="en"><tig><term>List</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Siyahı</term></tig></langSet>
+  </termEntry>
+  <termEntry id="load-more">
+   <langSet xml:lang="en"><tig><term>Load more</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Daha çox yüklə</term></tig></langSet>
+  </termEntry>
+  <termEntry id="loading">
+   <langSet xml:lang="en"><tig><term>Loading</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yüklənir</term></tig></langSet>
+  </termEntry>
+  <termEntry id="march">
+   <langSet xml:lang="en"><tig><term>March</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Mart</term></tig></langSet>
+  </termEntry>
+  <termEntry id="medium">
+   <langSet xml:lang="en"><tig><term>Medium</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Orta</term></tig></langSet>
+  </termEntry>
+  <termEntry id="monday">
+   <langSet xml:lang="en"><tig><term>Monday</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Bazar ertəsi</term></tig></langSet>
+  </termEntry>
+  <termEntry id="more">
+   <langSet xml:lang="en"><tig><term>More</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Daha çox</term></tig></langSet>
+  </termEntry>
+  <termEntry id="name">
+   <langSet xml:lang="en"><tig><term>Name</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Ad</term></tig></langSet>
+  </termEntry>
+  <termEntry id="navigation">
+   <langSet xml:lang="en"><tig><term>Navigation</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Naviqasiya</term></tig></langSet>
+  </termEntry>
+  <termEntry id="network">
+   <langSet xml:lang="en"><tig><term>Network</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Şəbəkə</term></tig></langSet>
+  </termEntry>
+  <termEntry id="new">
+   <langSet xml:lang="en"><tig><term>New</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yeni</term></tig></langSet>
+  </termEntry>
+  <termEntry id="new-password">
+   <langSet xml:lang="en"><tig><term>New password</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yeni parol</term></tig></langSet>
+  </termEntry>
+  <termEntry id="no">
+   <langSet xml:lang="en"><tig><term>No</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Xeyr</term></tig></langSet>
+  </termEntry>
+  <termEntry id="no-results-found">
+   <langSet xml:lang="en"><tig><term>No results found</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Nəticə tapılmadı</term></tig></langSet>
+  </termEntry>
+  <termEntry id="notifications">
+   <langSet xml:lang="en"><tig><term>Notifications</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Bildirişlər</term></tig></langSet>
+  </termEntry>
+  <termEntry id="now">
+   <langSet xml:lang="en"><tig><term>Now</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>İndi</term></tig></langSet>
+  </termEntry>
+  <termEntry id="open">
+   <langSet xml:lang="en"><tig><term>Open</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Aç</term></tig></langSet>
+  </termEntry>
+  <termEntry id="options">
+   <langSet xml:lang="en"><tig><term>Options</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Seçimlər</term></tig></langSet>
+  </termEntry>
+  <termEntry id="or">
+   <langSet xml:lang="en"><tig><term>Or</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Və ya</term></tig></langSet>
+  </termEntry>
+  <termEntry id="orange">
+   <langSet xml:lang="en"><tig><term>Orange</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Narıncı</term></tig></langSet>
+  </termEntry>
+  <termEntry id="other">
+   <langSet xml:lang="en"><tig><term>Other</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Digər</term></tig></langSet>
+  </termEntry>
+  <termEntry id="paste">
+   <langSet xml:lang="en"><tig><term>Paste</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yapışdır</term></tig></langSet>
+  </termEntry>
+  <termEntry id="play">
+   <langSet xml:lang="en"><tig><term>Play</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Oynat</term></tig></langSet>
+  </termEntry>
+  <termEntry id="print">
+   <langSet xml:lang="en"><tig><term>Print</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Çap et</term></tig></langSet>
+  </termEntry>
+  <termEntry id="purple">
+   <langSet xml:lang="en"><tig><term>Purple</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Bənövşəyi</term></tig></langSet>
+  </termEntry>
+  <termEntry id="quality">
+   <langSet xml:lang="en"><tig><term>Quality</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Keyfiyyət</term></tig></langSet>
+  </termEntry>
+  <termEntry id="red">
+   <langSet xml:lang="en"><tig><term>Red</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Qırmızı</term></tig></langSet>
+  </termEntry>
+  <termEntry id="refresh">
+   <langSet xml:lang="en"><tig><term>Refresh</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yenilə</term></tig></langSet>
+  </termEntry>
+  <termEntry id="reset">
+   <langSet xml:lang="en"><tig><term>Reset</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Sıfırla</term></tig></langSet>
+  </termEntry>
+  <termEntry id="restore">
+   <langSet xml:lang="en"><tig><term>Restore</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Bərpa et</term></tig></langSet>
+  </termEntry>
+  <termEntry id="right">
+   <langSet xml:lang="en"><tig><term>Right</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Sağ</term></tig></langSet>
+  </termEntry>
+  <termEntry id="role">
+   <langSet xml:lang="en"><tig><term>Role</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Rol</term></tig></langSet>
+  </termEntry>
+  <termEntry id="searching">
+   <langSet xml:lang="en"><tig><term>Searching</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Axtarılır</term></tig></langSet>
+  </termEntry>
+  <termEntry id="security">
+   <langSet xml:lang="en"><tig><term>Security</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Təhlükəsizlik</term></tig></langSet>
+  </termEntry>
+  <termEntry id="select">
+   <langSet xml:lang="en"><tig><term>Select</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Seç</term></tig></langSet>
+  </termEntry>
+  <termEntry id="select-all">
+   <langSet xml:lang="en"><tig><term>Select all</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Hamısını seç</term></tig></langSet>
+  </termEntry>
+  <termEntry id="send">
+   <langSet xml:lang="en"><tig><term>Send</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Göndər</term></tig></langSet>
+  </termEntry>
+  <termEntry id="share">
+   <langSet xml:lang="en"><tig><term>Share</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Paylaş</term></tig></langSet>
+  </termEntry>
+  <termEntry id="sign-in">
+   <langSet xml:lang="en"><tig><term>Sign in</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Daxil ol</term></tig></langSet>
+  </termEntry>
+  <termEntry id="small">
+   <langSet xml:lang="en"><tig><term>Small</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Kiçik</term></tig></langSet>
+  </termEntry>
+  <termEntry id="statistics">
+   <langSet xml:lang="en"><tig><term>Statistics</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Statistika</term></tig></langSet>
+  </termEntry>
+  <termEntry id="status">
+   <langSet xml:lang="en"><tig><term>Status</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Vəziyyət</term></tig></langSet>
+  </termEntry>
+  <termEntry id="stop">
+   <langSet xml:lang="en"><tig><term>Stop</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Dayandır</term></tig></langSet>
+  </termEntry>
+  <termEntry id="submit">
+   <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Göndər</term></tig></langSet>
+  </termEntry>
+  <termEntry id="system">
+   <langSet xml:lang="en"><tig><term>System</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Sistem</term></tig></langSet>
+  </termEntry>
+  <termEntry id="table">
+   <langSet xml:lang="en"><tig><term>Table</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Cədvəl</term></tig></langSet>
+  </termEntry>
+  <termEntry id="text">
+   <langSet xml:lang="en"><tig><term>Text</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Mətn</term></tig></langSet>
+  </termEntry>
+  <termEntry id="title">
+   <langSet xml:lang="en"><tig><term>Title</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Başlıq</term></tig></langSet>
+  </termEntry>
+  <termEntry id="today">
+   <langSet xml:lang="en"><tig><term>Today</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Bu gün</term></tig></langSet>
+  </termEntry>
+  <termEntry id="tools">
+   <langSet xml:lang="en"><tig><term>Tools</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Alətlər</term></tig></langSet>
+  </termEntry>
+  <termEntry id="type">
+   <langSet xml:lang="en"><tig><term>Type</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Növ</term></tig></langSet>
+  </termEntry>
+  <termEntry id="undo">
+   <langSet xml:lang="en"><tig><term>Undo</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Geri al</term></tig></langSet>
+  </termEntry>
+  <termEntry id="unknown">
+   <langSet xml:lang="en"><tig><term>Unknown</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Naməlum</term></tig></langSet>
+  </termEntry>
+  <termEntry id="update">
+   <langSet xml:lang="en"><tig><term>Update</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Yenilə</term></tig></langSet>
+  </termEntry>
+  <termEntry id="user">
+   <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>İstifadəçi</term></tig></langSet>
+  </termEntry>
+  <termEntry id="username">
+   <langSet xml:lang="en"><tig><term>Username</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>İstifadəçi adı</term></tig></langSet>
+  </termEntry>
+  <termEntry id="value">
+   <langSet xml:lang="en"><tig><term>Value</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Dəyər</term></tig></langSet>
+  </termEntry>
+  <termEntry id="warning">
+   <langSet xml:lang="en"><tig><term>Warning</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Xəbərdarlıq</term></tig></langSet>
+  </termEntry>
+  <termEntry id="yes">
+   <langSet xml:lang="en"><tig><term>Yes</term></tig></langSet>
+   <langSet xml:lang="az"><tig><term>Bəli</term></tig></langSet>
+  </termEntry>
+ </body></text>
+</martif>

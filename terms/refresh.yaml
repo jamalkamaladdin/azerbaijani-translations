@@ -1,0 +1,15 @@
+en: Refresh
+az: Yenilə
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 22
+    agreement: 0.86
+    forms:
+      Yenilə: 19
+      Təzələ: 3
+  firefox:
+    Yenilə: 5
+  gnome:
+    Yenilə: 1

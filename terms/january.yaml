@@ -1,0 +1,12 @@
+en: January
+az: Yanvar
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 9
+    agreement: 1.0
+    forms:
+      Yanvar: 9
+  gnome:
+    Yanvar: 1

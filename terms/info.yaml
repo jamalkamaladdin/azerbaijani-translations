@@ -1,0 +1,14 @@
+en: Info
+az: Məlumat
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 13
+    agreement: 1.0
+    forms:
+      Məlumat: 13
+  firefox:
+    Məlumat: 2
+  libreoffice:
+    Məlumat: 1

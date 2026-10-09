@@ -1,0 +1,16 @@
+en: Installing
+az: Quraşdırılır
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 10
+    agreement: 1.0
+    forms:
+      Quraşdırılır: 10
+  firefox:
+    Quraşdırlır: 1
+  gnome:
+    Quraşdırılır: 1
+  libreoffice:
+    Quraşdırılır: 1

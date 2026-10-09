@@ -1,0 +1,14 @@
+en: Language
+az: Dil
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 40
+    agreement: 1.0
+    forms:
+      Dil: 40
+  firefox:
+    Dil: 1
+  gnome:
+    Dil: 1

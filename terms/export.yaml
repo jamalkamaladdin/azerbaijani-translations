@@ -1,0 +1,16 @@
+en: Export
+az: İxrac et
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 29
+    agreement: 0.9
+    forms:
+      İxrac et: 26
+      İxrac: 6
+  firefox:
+    İxrac et: 2
+  libreoffice:
+    İxrac et: 4
+    İxrac: 1

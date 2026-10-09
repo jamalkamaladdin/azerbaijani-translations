@@ -1,0 +1,15 @@
+en: Select
+az: Seç
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 20
+    agreement: 0.95
+    forms:
+      Seç: 19
+      Seçim: 3
+  gnome:
+    Seç: 2
+  libreoffice:
+    Seç: 6

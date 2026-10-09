@@ -1,0 +1,13 @@
+en: New
+az: Yeni
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 18
+    agreement: 0.94
+    forms:
+      Yeni: 17
+      Yenisini yarat: 1
+  libreoffice:
+    Yeni: 49

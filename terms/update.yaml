@@ -1,0 +1,16 @@
+en: Update
+az: Yenilə
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 29
+    agreement: 1.0
+    forms:
+      Yenilə: 29
+      Yeniləmə: 1
+  firefox:
+    Yenilə: 4
+    Yeniləmə: 1
+  libreoffice:
+    Yenilə: 4

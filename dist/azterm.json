@@ -1,0 +1,2513 @@
+[
+ {
+  "en": "Account",
+  "az": "Hesab",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 14,
+    "agreement": 1.0,
+    "forms": {
+     "Hesab": 14
+    }
+   },
+   "firefox": {
+    "Hesab": 2
+   },
+   "libreoffice": {
+    "Hesab": 1
+   }
+  }
+ },
+ {
+  "en": "Actions",
+  "az": "Əməliyyatlar",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 21,
+    "agreement": 1.0,
+    "forms": {
+     "Əməliyyatlar": 21
+    }
+   },
+   "firefox": {
+    "Əməliyyatlar": 3
+   }
+  }
+ },
+ {
+  "en": "Add",
+  "az": "Əlavə et",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 32,
+    "agreement": 1.0,
+    "forms": {
+     "Əlavə et": 32,
+     "Əlavə etmə": 1,
+     "Diqqəti toplamaqda çətinlik": 1
+    }
+   },
+   "firefox": {
+    "Əlavə et": 8
+   },
+   "gnome": {
+    "Əlavə et": 1
+   },
+   "libreoffice": {
+    "Əlavə et": 43
+   }
+  }
+ },
+ {
+  "en": "Address",
+  "az": "Ünvan",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Ünvan": 9
+    }
+   },
+   "firefox": {
+    "Ünvan": 1,
+    "URL": 1,
+    "Adres": 1
+   },
+   "gnome": {
+    "Ünvan": 1
+   },
+   "libreoffice": {
+    "Ünvan": 1
+   }
+  }
+ },
+ {
+  "en": "All",
+  "az": "Hamısı",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 27,
+    "agreement": 1.0,
+    "forms": {
+     "Hamısı": 27
+    }
+   },
+   "firefox": {
+    "Hamısı": 2
+   },
+   "libreoffice": {
+    "Hamısı": 9
+   }
+  }
+ },
+ {
+  "en": "Appearance",
+  "az": "Görünüş",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 16,
+    "agreement": 1.0,
+    "forms": {
+     "Görünüş": 16
+    }
+   },
+   "firefox": {
+    "Görünüş": 4
+   },
+   "gnome": {
+    "Görünüş": 1
+   }
+  }
+ },
+ {
+  "en": "Apply",
+  "az": "Tətbiq et",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 17,
+    "agreement": 1.0,
+    "forms": {
+     "Tətbiq et": 17
+    }
+   },
+   "gnome": {
+    "Tətbiq et": 1
+   },
+   "libreoffice": {
+    "Tətbiq et": 39
+   }
+  }
+ },
+ {
+  "en": "April",
+  "az": "Aprel",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Aprel": 9
+    }
+   },
+   "gnome": {
+    "Aprel": 1
+   }
+  }
+ },
+ {
+  "en": "Author",
+  "az": "Müəllif",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 15,
+    "agreement": 1.0,
+    "forms": {
+     "Müəllif": 15
+    }
+   },
+   "firefox": {
+    "Müəllif": 2
+   },
+   "libreoffice": {
+    "Müəllif": 17
+   }
+  }
+ },
+ {
+  "en": "Automatic",
+  "az": "Avtomatik",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 1.0,
+    "forms": {
+     "Avtomatik": 10
+    }
+   },
+   "libreoffice": {
+    "Avtomatik": 15,
+    "Avtmatik": 2
+   }
+  }
+ },
+ {
+  "en": "Back",
+  "az": "Geri",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 25,
+    "agreement": 0.72,
+    "forms": {
+     "Geri": 18,
+     "Geri qayıt": 6,
+     "Geri get": 1
+    }
+   },
+   "firefox": {
+    "Geri": 5,
+    "Geri qayıt": 1
+   },
+   "gnome": {
+    "Geri": 5
+   },
+   "libreoffice": {
+    "Geri": 1
+   }
+  }
+ },
+ {
+  "en": "Calendar",
+  "az": "Təqvim",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 1.0,
+    "forms": {
+     "Təqvim": 10
+    }
+   },
+   "gnome": {
+    "Təqvim": 1
+   },
+   "libreoffice": {
+    "Təqvim": 1
+   }
+  }
+ },
+ {
+  "en": "Cancel",
+  "az": "Ləğv et",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 58,
+    "agreement": 1.0,
+    "forms": {
+     "Ləğv et": 58
+    }
+   },
+   "firefox": {
+    "Ləğv et": 32
+   },
+   "gnome": {
+    "Ləğv et": 3,
+    "İmtina et": 1
+   },
+   "libreoffice": {
+    "Ləğv et": 34,
+    "Ləğv": 1,
+    "İmtina": 1
+   }
+  }
+ },
+ {
+  "en": "Categories",
+  "az": "Kateqoriyalar",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 15,
+    "agreement": 1.0,
+    "forms": {
+     "Kateqoriyalar": 15
+    }
+   },
+   "libreoffice": {
+    "Kateqoriyalar": 2
+   }
+  }
+ },
+ {
+  "en": "Category",
+  "az": "Kateqoriya",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 15,
+    "agreement": 0.93,
+    "forms": {
+     "Kateqoriya": 14,
+     "Kaetiketoriya": 1
+    }
+   },
+   "firefox": {
+    "Kateqoriya": 1
+   },
+   "libreoffice": {
+    "Kateqoriya": 5
+   }
+  }
+ },
+ {
+  "en": "Change password",
+  "az": "Parolu dəyiş",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 1.0,
+    "forms": {
+     "Parolu dəyiş": 10,
+     "Parolun dəyişdirilməsi": 1
+    }
+   },
+   "firefox": {
+    "Parolu dəyiş": 1
+   }
+  }
+ },
+ {
+  "en": "Clear",
+  "az": "Təmizlə",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 30,
+    "agreement": 1.0,
+    "forms": {
+     "Təmizlə": 30,
+     "Problemsiz": 1,
+     "Seçimi təmizlə": 1
+    }
+   },
+   "firefox": {
+    "Təmizlə": 4
+   },
+   "gnome": {
+    "Təmizlə": 1
+   },
+   "libreoffice": {
+    "Təmizlə": 1
+   }
+  }
+ },
+ {
+  "en": "Close",
+  "az": "Bağla",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 41,
+    "agreement": 1.0,
+    "forms": {
+     "Bağla": 41
+    }
+   },
+   "firefox": {
+    "Qapat": 13,
+    "Bağla": 7
+   },
+   "gnome": {
+    "Bağla": 6
+   },
+   "libreoffice": {
+    "Bağla": 34,
+    "Qapat": 12
+   }
+  }
+ },
+ {
+  "en": "Code",
+  "az": "Kod",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 1.0,
+    "forms": {
+     "Kod": 10
+    }
+   },
+   "libreoffice": {
+    "Kod": 1
+   }
+  }
+ },
+ {
+  "en": "Comment",
+  "az": "Şərh",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 12,
+    "agreement": 1.0,
+    "forms": {
+     "Şərh": 12
+    }
+   },
+   "gnome": {
+    "Şərh": 2
+   }
+  }
+ },
+ {
+  "en": "Comments",
+  "az": "Şərhlər",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 13,
+    "agreement": 1.0,
+    "forms": {
+     "Şərhlər": 13
+    }
+   },
+   "libreoffice": {
+    "Şərhlər": 18
+   }
+  }
+ },
+ {
+  "en": "Continue",
+  "az": "Davam et",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 15,
+    "agreement": 1.0,
+    "forms": {
+     "Davam et": 15
+    }
+   },
+   "firefox": {
+    "Davam et": 6,
+    "İrəli": 1
+   },
+   "gnome": {
+    "Davam et": 1
+   },
+   "libreoffice": {
+    "Davam et": 1
+   }
+  }
+ },
+ {
+  "en": "Create",
+  "az": "Yarat",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 19,
+    "agreement": 1.0,
+    "forms": {
+     "Yarat": 19
+    }
+   },
+   "firefox": {
+    "Yarat": 1
+   }
+  }
+ },
+ {
+  "en": "Created",
+  "az": "Yaradılıb",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 12,
+    "agreement": 1.0,
+    "forms": {
+     "Yaradılıb": 12,
+     "Yaradıldı": 2
+    }
+   },
+   "firefox": {
+    "Yaradılıb": 1
+   }
+  }
+ },
+ {
+  "en": "Date",
+  "az": "Tarix",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 20,
+    "agreement": 1.0,
+    "forms": {
+     "Tarix": 20
+    }
+   },
+   "libreoffice": {
+    "Tarix": 4
+   }
+  }
+ },
+ {
+  "en": "Day",
+  "az": "Gün",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Gün": 9
+    }
+   },
+   "firefox": {
+    "Gün": 1
+   },
+   "libreoffice": {
+    "Gün": 1
+   }
+  }
+ },
+ {
+  "en": "Delete",
+  "az": "Sil",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 45,
+    "agreement": 1.0,
+    "forms": {
+     "Sil": 45,
+     "Silinsin": 2,
+     "Bu apı silinsin": 1,
+     "Silinmə": 1
+    }
+   },
+   "firefox": {
+    "Sil": 5
+   },
+   "gnome": {
+    "Sil": 3
+   },
+   "libreoffice": {
+    "Sil": 40,
+    "Silmək": 1
+   }
+  }
+ },
+ {
+  "en": "Download",
+  "az": "Endir",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 24,
+    "agreement": 0.75,
+    "forms": {
+     "Endir": 18,
+     "Yüklə": 4,
+     "Endirmə": 3,
+     "Endirin": 1
+    }
+   },
+   "firefox": {
+    "Endir": 3
+   },
+   "gnome": {
+    "Endir": 1
+   }
+  }
+ },
+ {
+  "en": "Email",
+  "az": "E-poçt",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 23,
+    "agreement": 0.96,
+    "forms": {
+     "E-poçt": 22,
+     "İş e-poçtunuzu daxil edin": 1
+    }
+   },
+   "firefox": {
+    "E-poçt": 2
+   }
+  }
+ },
+ {
+  "en": "Enabled",
+  "az": "Aktivdir",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 26,
+    "agreement": 0.73,
+    "forms": {
+     "Aktivdir": 19,
+     "Aktiv": 4,
+     "Aktivləşdirilib": 1,
+     "Aktivləşdirilmiş": 1
+    }
+   },
+   "firefox": {
+    "Aktivdir": 3
+   },
+   "gnome": {
+    "Aktivdir": 1
+   }
+  }
+ },
+ {
+  "en": "Error",
+  "az": "Xəta",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 28,
+    "agreement": 1.0,
+    "forms": {
+     "Xəta": 28
+    }
+   },
+   "firefox": {
+    "Xəta": 7
+   },
+   "gnome": {
+    "Xəta": 2
+   },
+   "libreoffice": {
+    "Xəta": 2
+   }
+  }
+ },
+ {
+  "en": "Export",
+  "az": "İxrac et",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 29,
+    "agreement": 0.9,
+    "forms": {
+     "İxrac et": 26,
+     "İxrac": 6
+    }
+   },
+   "firefox": {
+    "İxrac et": 2
+   },
+   "libreoffice": {
+    "İxrac et": 4,
+    "İxrac": 1
+   }
+  }
+ },
+ {
+  "en": "February",
+  "az": "Fevral",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Fevral": 9
+    }
+   },
+   "gnome": {
+    "Fevral": 1
+   }
+  }
+ },
+ {
+  "en": "File",
+  "az": "Fayl",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 20,
+    "agreement": 1.0,
+    "forms": {
+     "Fayl": 20
+    }
+   },
+   "firefox": {
+    "Fayl": 3,
+    "Fayl:\\u0020": 1
+   },
+   "gnome": {
+    "Fayl": 1
+   },
+   "libreoffice": {
+    "Fayl": 1
+   }
+  }
+ },
+ {
+  "en": "File name",
+  "az": "Fayl adı",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 0.8,
+    "forms": {
+     "Fayl adı": 8,
+     "Faylın adı": 2
+    }
+   },
+   "firefox": {
+    "Fayl adı": 1
+   },
+   "libreoffice": {
+    "Fayl adı": 1
+   }
+  }
+ },
+ {
+  "en": "Filter",
+  "az": "Süzgəc",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 21,
+    "agreement": 0.95,
+    "forms": {
+     "Süzgəc": 20,
+     "Süz": 2,
+     "Filtr": 1
+    }
+   },
+   "firefox": {
+    "Süzgəc": 1
+   },
+   "gnome": {
+    "Filtr": 1
+   },
+   "libreoffice": {
+    "Süzgəc": 3
+   }
+  }
+ },
+ {
+  "en": "Folder",
+  "az": "Qovluq",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 1.0,
+    "forms": {
+     "Qovluq": 10
+    }
+   },
+   "gnome": {
+    "Qovluq": 1
+   },
+   "libreoffice": {
+    "Qovluq": 1
+   }
+  }
+ },
+ {
+  "en": "Font size",
+  "az": "Şrift ölçüsü",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 12,
+    "agreement": 0.92,
+    "forms": {
+     "Şrift ölçüsü": 11,
+     "Şriftin ölçüsü": 1
+    }
+   },
+   "firefox": {
+    "Şrift ölçüsü": 1
+   },
+   "gnome": {
+    "Şrift ölçüsü": 1
+   }
+  }
+ },
+ {
+  "en": "General",
+  "az": "Ümumi",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 28,
+    "agreement": 1.0,
+    "forms": {
+     "Ümumi": 28
+    }
+   },
+   "firefox": {
+    "Ümumi": 2
+   },
+   "gnome": {
+    "Ümumi": 6
+   },
+   "libreoffice": {
+    "Ümumi": 3,
+    "Əsas": 1
+   }
+  }
+ },
+ {
+  "en": "Green",
+  "az": "Yaşıl",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 13,
+    "agreement": 1.0,
+    "forms": {
+     "Yaşıl": 13
+    }
+   },
+   "firefox": {
+    "Yaşıl": 1
+   },
+   "libreoffice": {
+    "Yaşıl": 1
+   }
+  }
+ },
+ {
+  "en": "Group",
+  "az": "Qrup",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 14,
+    "agreement": 1.0,
+    "forms": {
+     "Qrup": 14,
+     "Qruplaşdır": 1
+    }
+   },
+   "firefox": {
+    "Qrup": 1
+   },
+   "gnome": {
+    "Qrup": 1
+   },
+   "libreoffice": {
+    "Qruplaşdır": 2
+   }
+  }
+ },
+ {
+  "en": "Help",
+  "az": "Kömək",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 22,
+    "agreement": 0.91,
+    "forms": {
+     "Kömək": 20,
+     "Yardım": 2,
+     "Köməyin": 1
+    }
+   },
+   "firefox": {
+    "Kömək": 6
+   },
+   "gnome": {
+    "Yardım": 3,
+    "Kömək": 1
+   },
+   "libreoffice": {
+    "Kömək": 34,
+    "Yardım": 7
+   }
+  }
+ },
+ {
+  "en": "High",
+  "az": "Yüksək",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 13,
+    "agreement": 1.0,
+    "forms": {
+     "Yüksək": 13,
+     "Yuxarı": 1
+    }
+   },
+   "gnome": {
+    "Yüksək": 1
+   }
+  }
+ },
+ {
+  "en": "Image",
+  "az": "Şəkil",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 14,
+    "agreement": 0.93,
+    "forms": {
+     "Şəkil": 13,
+     "Təsvir": 1,
+     "Obraz": 1
+    }
+   },
+   "firefox": {
+    "Şəkil": 1
+   },
+   "gnome": {
+    "Rəsm": 1,
+    "Şəkil": 1
+   },
+   "libreoffice": {
+    "Şəkil": 1
+   }
+  }
+ },
+ {
+  "en": "Import",
+  "az": "İdxal et",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 21,
+    "agreement": 0.95,
+    "forms": {
+     "İdxal et": 20,
+     "İdxal": 4
+    }
+   },
+   "firefox": {
+    "İdxal et": 2
+   },
+   "gnome": {
+    "İdxal et": 1
+   },
+   "libreoffice": {
+    "İdxal et": 5,
+    "İdxal": 1
+   }
+  }
+ },
+ {
+  "en": "Info",
+  "az": "Məlumat",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 13,
+    "agreement": 1.0,
+    "forms": {
+     "Məlumat": 13
+    }
+   },
+   "firefox": {
+    "Məlumat": 2
+   },
+   "libreoffice": {
+    "Məlumat": 1
+   }
+  }
+ },
+ {
+  "en": "Installing",
+  "az": "Quraşdırılır",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 1.0,
+    "forms": {
+     "Quraşdırılır": 10
+    }
+   },
+   "firefox": {
+    "Quraşdırlır": 1
+   },
+   "gnome": {
+    "Quraşdırılır": 1
+   },
+   "libreoffice": {
+    "Quraşdırılır": 1
+   }
+  }
+ },
+ {
+  "en": "January",
+  "az": "Yanvar",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Yanvar": 9
+    }
+   },
+   "gnome": {
+    "Yanvar": 1
+   }
+  }
+ },
+ {
+  "en": "July",
+  "az": "İyul",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "İyul": 9
+    }
+   },
+   "gnome": {
+    "İyul": 1
+   }
+  }
+ },
+ {
+  "en": "June",
+  "az": "İyun",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "İyun": 9
+    }
+   },
+   "gnome": {
+    "İyun": 1
+   }
+  }
+ },
+ {
+  "en": "Key",
+  "az": "Açar",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Açar": 9
+    }
+   },
+   "libreoffice": {
+    "Açar": 1
+   }
+  }
+ },
+ {
+  "en": "Label",
+  "az": "Etiket",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 0.89,
+    "forms": {
+     "Etiket": 8,
+     "Yazı": 1
+    }
+   },
+   "firefox": {
+    "Etiket": 1
+   },
+   "gnome": {
+    "Etiket": 1
+   },
+   "libreoffice": {
+    "Etiket": 4
+   }
+  }
+ },
+ {
+  "en": "Language",
+  "az": "Dil",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 40,
+    "agreement": 1.0,
+    "forms": {
+     "Dil": 40
+    }
+   },
+   "firefox": {
+    "Dil": 1
+   },
+   "gnome": {
+    "Dil": 1
+   }
+  }
+ },
+ {
+  "en": "Large",
+  "az": "Böyük",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Böyük": 9
+    }
+   },
+   "firefox": {
+    "Böyük": 1
+   },
+   "libreoffice": {
+    "Böyük": 1
+   }
+  }
+ },
+ {
+  "en": "Left",
+  "az": "Sol",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 12,
+    "agreement": 0.75,
+    "forms": {
+     "Sol": 9,
+     "Sola": 2,
+     "Sola düzləndir": 1,
+     "Sola dön": 1
+    }
+   },
+   "firefox": {
+    "Sol": 3
+   },
+   "libreoffice": {
+    "Sol": 11
+   }
+  }
+ },
+ {
+  "en": "Library",
+  "az": "Kitabxana",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Kitabxana": 9
+    }
+   },
+   "firefox": {
+    "Kitabxana": 2
+   },
+   "libreoffice": {
+    "Kitabxana": 4
+   }
+  }
+ },
+ {
+  "en": "Light",
+  "az": "Açıq",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 25,
+    "agreement": 0.84,
+    "forms": {
+     "Açıq": 21,
+     "İşıqlı": 4
+    }
+   },
+   "firefox": {
+    "Açıq": 3
+   },
+   "libreoffice": {
+    "Açıq": 1,
+    "İşıqlı": 1
+   }
+  }
+ },
+ {
+  "en": "List",
+  "az": "Siyahı",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 17,
+    "agreement": 1.0,
+    "forms": {
+     "Siyahı": 17
+    }
+   },
+   "firefox": {
+    "Siyahı": 1
+   },
+   "gnome": {
+    "Siyahı": 1
+   }
+  }
+ },
+ {
+  "en": "Load more",
+  "az": "Daha çox yüklə",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Daha çox yüklə": 9,
+     "Daha çoxunu yüklə": 1
+    }
+   },
+   "firefox": {
+    "Daha çox yüklə": 1
+   }
+  }
+ },
+ {
+  "en": "Loading",
+  "az": "Yüklənir",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 26,
+    "agreement": 1.0,
+    "forms": {
+     "Yüklənir": 26
+    }
+   },
+   "firefox": {
+    "Yüklənir": 4
+   },
+   "libreoffice": {
+    "Yüklənir": 2
+   }
+  }
+ },
+ {
+  "en": "March",
+  "az": "Mart",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Mart": 9
+    }
+   },
+   "gnome": {
+    "Mart": 1
+   }
+  }
+ },
+ {
+  "en": "Medium",
+  "az": "Orta",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 20,
+    "agreement": 0.95,
+    "forms": {
+     "Orta": 19,
+     "Vasitə": 1
+    }
+   },
+   "firefox": {
+    "Orta": 1
+   },
+   "gnome": {
+    "Orta": 1
+   },
+   "libreoffice": {
+    "Orta": 1
+   }
+  }
+ },
+ {
+  "en": "Monday",
+  "az": "Bazar ertəsi",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Bazar ertəsi": 9
+    }
+   },
+   "gnome": {
+    "Bazar ertəsi": 1
+   }
+  }
+ },
+ {
+  "en": "More",
+  "az": "Daha çox",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 20,
+    "agreement": 0.95,
+    "forms": {
+     "Daha çox": 19,
+     "Daha çox göstər": 2
+    }
+   },
+   "libreoffice": {
+    "Daha çox": 6
+   }
+  }
+ },
+ {
+  "en": "Name",
+  "az": "Ad",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 46,
+    "agreement": 1.0,
+    "forms": {
+     "Ad": 46
+    }
+   },
+   "firefox": {
+    "Ad": 13,
+    "Adı": 3
+   },
+   "gnome": {
+    "Ad": 4
+   },
+   "libreoffice": {
+    "Ad": 19
+   }
+  }
+ },
+ {
+  "en": "Navigation",
+  "az": "Naviqasiya",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 11,
+    "agreement": 1.0,
+    "forms": {
+     "Naviqasiya": 11
+    }
+   },
+   "firefox": {
+    "Naviqasiya": 1,
+    "Gəzinmə": 1
+   }
+  }
+ },
+ {
+  "en": "Network",
+  "az": "Şəbəkə",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 11,
+    "agreement": 1.0,
+    "forms": {
+     "Şəbəkə": 11
+    }
+   },
+   "firefox": {
+    "Şəbəkə": 1
+   },
+   "gnome": {
+    "Şəbəkə": 1
+   },
+   "libreoffice": {
+    "Şəbəkə": 2
+   }
+  }
+ },
+ {
+  "en": "New",
+  "az": "Yeni",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 18,
+    "agreement": 0.94,
+    "forms": {
+     "Yeni": 17,
+     "Yenisini yarat": 1
+    }
+   },
+   "libreoffice": {
+    "Yeni": 49
+   }
+  }
+ },
+ {
+  "en": "New password",
+  "az": "Yeni parol",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 13,
+    "agreement": 1.0,
+    "forms": {
+     "Yeni parol": 13
+    }
+   },
+   "firefox": {
+    "Yeni parol": 1
+   }
+  }
+ },
+ {
+  "en": "No",
+  "az": "Xeyr",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 30,
+    "agreement": 1.0,
+    "forms": {
+     "Xeyr": 30,
+     "№": 1
+    }
+   },
+   "firefox": {
+    "Xeyr": 6,
+    "Yox": 1
+   },
+   "libreoffice": {
+    "Xeyr": 35,
+    "Yox": 17
+   }
+  }
+ },
+ {
+  "en": "No results found",
+  "az": "Nəticə tapılmadı",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 16,
+    "agreement": 1.0,
+    "forms": {
+     "Nəticə tapılmadı": 16
+    }
+   },
+   "firefox": {
+    "Nəticə tapılmadı": 1
+   }
+  }
+ },
+ {
+  "en": "Notifications",
+  "az": "Bildirişlər",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 1.0,
+    "forms": {
+     "Bildirişlər": 10
+    }
+   },
+   "firefox": {
+    "Bildirişlər": 1
+   }
+  }
+ },
+ {
+  "en": "Now",
+  "az": "İndi",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "İndi": 9
+    }
+   },
+   "libreoffice": {
+    "İndi": 1
+   }
+  }
+ },
+ {
+  "en": "Open",
+  "az": "Aç",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 23,
+    "agreement": 0.87,
+    "forms": {
+     "Aç": 20,
+     "Açıq": 5
+    }
+   },
+   "firefox": {
+    "Aç": 7
+   },
+   "gnome": {
+    "Aç": 6
+   },
+   "libreoffice": {
+    "Aç": 5
+   }
+  }
+ },
+ {
+  "en": "Options",
+  "az": "Seçimlər",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 17,
+    "agreement": 0.76,
+    "forms": {
+     "Seçimlər": 13,
+     "Parametrlər": 4
+    }
+   },
+   "firefox": {
+    "Seçimlər": 3,
+    "Nizamlar": 3
+   },
+   "libreoffice": {
+    "Seçimlər": 34,
+    "Parametrlər": 1
+   }
+  }
+ },
+ {
+  "en": "Or",
+  "az": "Və ya",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 19,
+    "agreement": 1.0,
+    "forms": {
+     "Və ya": 19
+    }
+   },
+   "libreoffice": {
+    "Və ya": 3,
+    "Vəya": 2
+   }
+  }
+ },
+ {
+  "en": "Orange",
+  "az": "Narıncı",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Narıncı": 9
+    }
+   },
+   "firefox": {
+    "Narıncı": 1
+   }
+  }
+ },
+ {
+  "en": "Other",
+  "az": "Digər",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 18,
+    "agreement": 1.0,
+    "forms": {
+     "Digər": 18
+    }
+   },
+   "firefox": {
+    "Digər": 2
+   },
+   "libreoffice": {
+    "Digər": 1
+   }
+  }
+ },
+ {
+  "en": "Paste",
+  "az": "Yapışdır",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 15,
+    "agreement": 0.93,
+    "forms": {
+     "Yapışdır": 14,
+     "Yerləşdir": 1
+    }
+   },
+   "firefox": {
+    "Yapışdır": 3
+   },
+   "gnome": {
+    "Yapışdır": 3
+   }
+  }
+ },
+ {
+  "en": "Play",
+  "az": "Oynat",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 0.7,
+    "forms": {
+     "Oynat": 7,
+     "Səsləndir": 3,
+     "Başlat": 1
+    }
+   },
+   "firefox": {
+    "Oynat": 2,
+    "Göstər": 1
+   },
+   "gnome": {
+    "Oynat": 1
+   },
+   "libreoffice": {
+    "Oynat": 3
+   }
+  }
+ },
+ {
+  "en": "Print",
+  "az": "Çap et",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Çap et": 9,
+     "Çap": 1
+    }
+   },
+   "firefox": {
+    "Çap et": 5,
+    "Yazdır": 3
+   },
+   "gnome": {
+    "Çap et": 1
+   },
+   "libreoffice": {
+    "Çap et": 1
+   }
+  }
+ },
+ {
+  "en": "Purple",
+  "az": "Bənövşəyi",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Bənövşəyi": 9
+    }
+   },
+   "firefox": {
+    "Bənövşəyi": 1
+   }
+  }
+ },
+ {
+  "en": "Quality",
+  "az": "Keyfiyyət",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 9,
+    "agreement": 1.0,
+    "forms": {
+     "Keyfiyyət": 9
+    }
+   },
+   "libreoffice": {
+    "Keyfiyyət": 1
+   }
+  }
+ },
+ {
+  "en": "Red",
+  "az": "Qırmızı",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 12,
+    "agreement": 1.0,
+    "forms": {
+     "Qırmızı": 12
+    }
+   },
+   "firefox": {
+    "Qırmızı": 1
+   },
+   "libreoffice": {
+    "Qırmızı": 1
+   }
+  }
+ },
+ {
+  "en": "Refresh",
+  "az": "Yenilə",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 22,
+    "agreement": 0.86,
+    "forms": {
+     "Yenilə": 19,
+     "Təzələ": 3
+    }
+   },
+   "firefox": {
+    "Yenilə": 5
+   },
+   "gnome": {
+    "Yenilə": 1
+   }
+  }
+ },
+ {
+  "en": "Reset",
+  "az": "Sıfırla",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 28,
+    "agreement": 1.0,
+    "forms": {
+     "Sıfırla": 28
+    }
+   },
+   "firefox": {
+    "Sıfırla": 3
+   },
+   "libreoffice": {
+    "Sıfırla": 35
+   }
+  }
+ },
+ {
+  "en": "Restore",
+  "az": "Bərpa et",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 19,
+    "agreement": 1.0,
+    "forms": {
+     "Bərpa et": 19
+    }
+   },
+   "firefox": {
+    "Bərpa et": 2
+   }
+  }
+ },
+ {
+  "en": "Right",
+  "az": "Sağ",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 12,
+    "agreement": 0.75,
+    "forms": {
+     "Sağ": 9,
+     "Sağa": 2,
+     "Sağa düzləndir": 1,
+     "Sağa dön": 1
+    }
+   },
+   "firefox": {
+    "Sağ": 3
+   },
+   "libreoffice": {
+    "Sağ": 11
+   }
+  }
+ },
+ {
+  "en": "Role",
+  "az": "Rol",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 12,
+    "agreement": 1.0,
+    "forms": {
+     "Rol": 12
+    }
+   },
+   "firefox": {
+    "Rol": 1
+   }
+  }
+ },
+ {
+  "en": "Searching",
+  "az": "Axtarılır",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 11,
+    "agreement": 1.0,
+    "forms": {
+     "Axtarılır": 11
+    }
+   },
+   "libreoffice": {
+    "Axtarılır": 1
+   }
+  }
+ },
+ {
+  "en": "Security",
+  "az": "Təhlükəsizlik",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 0.9,
+    "forms": {
+     "Təhlükəsizlik": 9,
+     "İnformasiya təhlükəsizliyi": 1
+    }
+   },
+   "firefox": {
+    "Təhlükəsizlik": 3
+   }
+  }
+ },
+ {
+  "en": "Select",
+  "az": "Seç",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 20,
+    "agreement": 0.95,
+    "forms": {
+     "Seç": 19,
+     "Seçim": 3
+    }
+   },
+   "gnome": {
+    "Seç": 2
+   },
+   "libreoffice": {
+    "Seç": 6
+   }
+  }
+ },
+ {
+  "en": "Select all",
+  "az": "Hamısını seç",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 20,
+    "agreement": 1.0,
+    "forms": {
+     "Hamısını seç": 20
+    }
+   },
+   "firefox": {
+    "Hamısını seç": 6
+   },
+   "gnome": {
+    "Hamısını seç": 4
+   }
+  }
+ },
+ {
+  "en": "Send",
+  "az": "Göndər",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 0.9,
+    "forms": {
+     "Göndər": 9,
+     "Göndərmə": 1
+    }
+   },
+   "firefox": {
+    "Göndər": 2
+   },
+   "gnome": {
+    "Göndər": 1
+   }
+  }
+ },
+ {
+  "en": "Share",
+  "az": "Paylaş",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 17,
+    "agreement": 1.0,
+    "forms": {
+     "Paylaş": 17,
+     "Pay": 1,
+     "Paylaşma": 1,
+     "Paylaşım": 1
+    }
+   },
+   "firefox": {
+    "Paylaş": 1
+   }
+  }
+ },
+ {
+  "en": "Sign in",
+  "az": "Daxil ol",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 12,
+    "agreement": 1.0,
+    "forms": {
+     "Daxil ol": 12
+    }
+   },
+   "firefox": {
+    "Daxil ol": 4
+   }
+  }
+ },
+ {
+  "en": "Small",
+  "az": "Kiçik",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 11,
+    "agreement": 1.0,
+    "forms": {
+     "Kiçik": 11
+    }
+   },
+   "firefox": {
+    "Kiçik": 1
+   },
+   "libreoffice": {
+    "Kiçik": 1
+   }
+  }
+ },
+ {
+  "en": "Statistics",
+  "az": "Statistika",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 1.0,
+    "forms": {
+     "Statistika": 10
+    }
+   },
+   "gnome": {
+    "Statistika": 1
+   }
+  }
+ },
+ {
+  "en": "Status",
+  "az": "Vəziyyət",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 30,
+    "agreement": 1.0,
+    "forms": {
+     "Vəziyyət": 30
+    }
+   },
+   "firefox": {
+    "Durum": 4
+   },
+   "gnome": {
+    "Vəziyyət": 1
+   },
+   "libreoffice": {
+    "Vəziyyət": 1
+   }
+  }
+ },
+ {
+  "en": "Stop",
+  "az": "Dayandır",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 14,
+    "agreement": 1.0,
+    "forms": {
+     "Dayandır": 14,
+     "Dayandırın": 1
+    }
+   },
+   "firefox": {
+    "Dayandır": 2,
+    "Dayan": 2
+   },
+   "gnome": {
+    "Dayandır": 1,
+    "Dayan": 1
+   },
+   "libreoffice": {
+    "Dayan": 6
+   }
+  }
+ },
+ {
+  "en": "Submit",
+  "az": "Göndər",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 12,
+    "agreement": 0.92,
+    "forms": {
+     "Göndər": 11,
+     "Təqdim et": 2
+    }
+   },
+   "firefox": {
+    "Göndər": 1
+   }
+  }
+ },
+ {
+  "en": "System",
+  "az": "Sistem",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 23,
+    "agreement": 1.0,
+    "forms": {
+     "Sistem": 23
+    }
+   },
+   "firefox": {
+    "Sistem": 1
+   }
+  }
+ },
+ {
+  "en": "Table",
+  "az": "Cədvəl",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 10,
+    "agreement": 1.0,
+    "forms": {
+     "Cədvəl": 10
+    }
+   },
+   "firefox": {
+    "Cədvəl": 1
+   },
+   "gnome": {
+    "Cədvəl": 1
+   },
+   "libreoffice": {
+    "Cədvəl": 3
+   }
+  }
+ },
+ {
+  "en": "Text",
+  "az": "Mətn",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 17,
+    "agreement": 1.0,
+    "forms": {
+     "Mətn": 17
+    }
+   },
+   "firefox": {
+    "Mətn": 1
+   },
+   "gnome": {
+    "Mətn": 2
+   },
+   "libreoffice": {
+    "Mətn": 9
+   }
+  }
+ },
+ {
+  "en": "Title",
+  "az": "Başlıq",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 24,
+    "agreement": 0.96,
+    "forms": {
+     "Başlıq": 23,
+     "Ad": 1
+    }
+   },
+   "firefox": {
+    "Başlık": 4,
+    "Başlıq": 2
+   },
+   "gnome": {
+    "Başlıq": 2
+   },
+   "libreoffice": {
+    "Başlıq": 44
+   }
+  }
+ },
+ {
+  "en": "Today",
+  "az": "Bu gün",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 15,
+    "agreement": 1.0,
+    "forms": {
+     "Bu gün": 15
+    }
+   },
+   "firefox": {
+    "Bu gün": 3,
+    "Bugün": 2
+   },
+   "gnome": {
+    "Bu gün": 1
+   },
+   "libreoffice": {
+    "Bugün": 1,
+    "Bu gün": 1
+   }
+  }
+ },
+ {
+  "en": "Tools",
+  "az": "Alətlər",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 11,
+    "agreement": 1.0,
+    "forms": {
+     "Alətlər": 11
+    }
+   },
+   "firefox": {
+    "Alətlər": 3
+   }
+  }
+ },
+ {
+  "en": "Type",
+  "az": "Növ",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 28,
+    "agreement": 1.0,
+    "forms": {
+     "Növ": 28
+    }
+   },
+   "firefox": {
+    "Format": 4,
+    "Növü": 1
+   },
+   "gnome": {
+    "Növ": 4
+   },
+   "libreoffice": {
+    "Növ": 51
+   }
+  }
+ },
+ {
+  "en": "Undo",
+  "az": "Geri al",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 15,
+    "agreement": 0.93,
+    "forms": {
+     "Geri al": 14,
+     "Geri qaytar": 3,
+     "Geri qaytarma": 1
+    }
+   },
+   "firefox": {
+    "Geri al": 2
+   },
+   "gnome": {
+    "Geri al": 2
+   },
+   "libreoffice": {
+    "Ləğv et": 1
+   }
+  }
+ },
+ {
+  "en": "Unknown",
+  "az": "Naməlum",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 29,
+    "agreement": 1.0,
+    "forms": {
+     "Naməlum": 29
+    }
+   },
+   "firefox": {
+    "Bilinmir": 4,
+    "Bilinməyən": 2
+   },
+   "gnome": {
+    "Naməlum": 5,
+    "Namə'lum": 3
+   },
+   "libreoffice": {
+    "Naməlum": 6
+   }
+  }
+ },
+ {
+  "en": "Update",
+  "az": "Yenilə",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 29,
+    "agreement": 1.0,
+    "forms": {
+     "Yenilə": 29,
+     "Yeniləmə": 1
+    }
+   },
+   "firefox": {
+    "Yenilə": 4,
+    "Yeniləmə": 1
+   },
+   "libreoffice": {
+    "Yenilə": 4
+   }
+  }
+ },
+ {
+  "en": "User",
+  "az": "İstifadəçi",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 17,
+    "agreement": 1.0,
+    "forms": {
+     "İstifadəçi": 17
+    }
+   },
+   "gnome": {
+    "İstifadəçi": 1
+   }
+  }
+ },
+ {
+  "en": "Username",
+  "az": "İstifadəçi adı",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 30,
+    "agreement": 1.0,
+    "forms": {
+     "İstifadəçi adı": 30
+    }
+   },
+   "firefox": {
+    "İstifadəçi adı": 2
+   },
+   "gnome": {
+    "İstifadəçi adı": 2
+   }
+  }
+ },
+ {
+  "en": "Value",
+  "az": "Dəyər",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 15,
+    "agreement": 1.0,
+    "forms": {
+     "Dəyər": 15,
+     "Qiymət": 2
+    }
+   },
+   "firefox": {
+    "Dəyər": 5
+   },
+   "gnome": {
+    "Dəyər": 1
+   },
+   "libreoffice": {
+    "Dəyər": 60
+   }
+  }
+ },
+ {
+  "en": "Warning",
+  "az": "Xəbərdarlıq",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 13,
+    "agreement": 1.0,
+    "forms": {
+     "Xəbərdarlıq": 13
+    }
+   },
+   "firefox": {
+    "Xəbərdarlıq": 1
+   },
+   "libreoffice": {
+    "Xəbərdarlıq": 2
+   }
+  }
+ },
+ {
+  "en": "Yes",
+  "az": "Bəli",
+  "status": "evidence",
+  "decided": "2026-10-09",
+  "evidence": {
+   "oss": {
+    "repos": 28,
+    "agreement": 1.0,
+    "forms": {
+     "Bəli": 28
+    }
+   },
+   "firefox": {
+    "Bəli": 6
+   },
+   "libreoffice": {
+    "Bəli": 36,
+    "Hə": 13
+   }
+  }
+ }
+]

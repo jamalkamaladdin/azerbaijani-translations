@@ -1,0 +1,14 @@
+en: Reset
+az: Sıfırla
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 28
+    agreement: 1.0
+    forms:
+      Sıfırla: 28
+  firefox:
+    Sıfırla: 3
+  libreoffice:
+    Sıfırla: 35

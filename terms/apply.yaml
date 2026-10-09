@@ -1,0 +1,14 @@
+en: Apply
+az: Tətbiq et
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 17
+    agreement: 1.0
+    forms:
+      Tətbiq et: 17
+  gnome:
+    Tətbiq et: 1
+  libreoffice:
+    Tətbiq et: 39

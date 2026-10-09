@@ -1,0 +1,14 @@
+en: Appearance
+az: Görünüş
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 16
+    agreement: 1.0
+    forms:
+      Görünüş: 16
+  firefox:
+    Görünüş: 4
+  gnome:
+    Görünüş: 1

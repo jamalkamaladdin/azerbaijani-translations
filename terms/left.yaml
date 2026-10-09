@@ -1,0 +1,17 @@
+en: Left
+az: Sol
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 12
+    agreement: 0.75
+    forms:
+      Sol: 9
+      Sola: 2
+      Sola düzləndir: 1
+      Sola dön: 1
+  firefox:
+    Sol: 3
+  libreoffice:
+    Sol: 11

@@ -1,0 +1,13 @@
+en: Security
+az: Təhlükəsizlik
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 10
+    agreement: 0.9
+    forms:
+      Təhlükəsizlik: 9
+      İnformasiya təhlükəsizliyi: 1
+  firefox:
+    Təhlükəsizlik: 3

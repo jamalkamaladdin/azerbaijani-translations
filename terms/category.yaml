@@ -1,0 +1,15 @@
+en: Category
+az: Kateqoriya
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 15
+    agreement: 0.93
+    forms:
+      Kateqoriya: 14
+      Kaetiketoriya: 1
+  firefox:
+    Kateqoriya: 1
+  libreoffice:
+    Kateqoriya: 5

@@ -1,0 +1,14 @@
+en: Red
+az: Qırmızı
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 12
+    agreement: 1.0
+    forms:
+      Qırmızı: 12
+  firefox:
+    Qırmızı: 1
+  libreoffice:
+    Qırmızı: 1

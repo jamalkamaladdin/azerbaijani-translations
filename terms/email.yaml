@@ -1,0 +1,13 @@
+en: Email
+az: E-poçt
+status: evidence
+decided: '2026-10-09'
+evidence:
+  oss:
+    repos: 23
+    agreement: 0.96
+    forms:
+      E-poçt: 22
+      İş e-poçtunuzu daxil edin: 1
+  firefox:
+    E-poçt: 2
